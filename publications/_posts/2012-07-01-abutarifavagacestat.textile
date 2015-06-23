@@ -1,0 +1,11 @@
+---
+layout: pubpost
+category: publications
+title: "Avagacestat (BMS-708163) Exposures and Study Discontinuations in Patients With Mild-to-Moderate Alzheimer’s Disease"
+authors: Malaz AbuTarif, Stephen Kaplita, Robert M. Berman, Vlad Coric, Kyle Baron
+place: "AAIC meeting, Vancouver, BC"
+pubdate: July 2012
+link: /assets/pubs/aaic-abutarif_21%20June%202012.pdf
+areas: neurodegenerative
+---
+Malaz AbuTarif, Stephen Kaplita, Robert M. Berman, Vlad Coric, Kyle Baron. Avagacestat (BMS-708163) Exposures and Study Discontinuations in Patients With Mild-to-Moderate Alzheimer’s Disease. AAIC meeting, July 2012, Vancouver, BC.

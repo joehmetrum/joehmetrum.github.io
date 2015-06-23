@@ -1,0 +1,9 @@
+---
+layout: teampost
+title: Research Scientist
+name: Lonni Schulz, M.S.
+given: Lonni
+surname: Schulz
+category: team
+---
+With Master’s degrees in both computer & information science and applied genomics, Lonni joined Metrum in 2014.  She brings 12 years of pharmaceutical industry experience in clinical and pre-clinical environments to the challenges of data set assembly and data programming.

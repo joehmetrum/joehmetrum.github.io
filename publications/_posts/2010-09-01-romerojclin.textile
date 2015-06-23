@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Pharmacometrics as a discipline is entering the "industrialization" phase: standards, automation, knowledge sharing, and training are critical for future success'
+authors: Romero K, Corrigan B, Tornoe CW, Gobburu JV, Danhof M, Gillespie WR, Gastonguay MR, Meibohm B, Derendorf H
+place: "J Clin Pharmacol"
+pubdate: September 2010
+volume: 50
+number: 9
+pages: 9S-19S
+link: http://dx.doi.org/10.1177/0091270010377788
+areas: methodology
+---
+Romero K, Corrigan B, Tornoe CW, Gobburu JV, Danhof M, Gillespie WR, Gastonguay MR, Meibohm B, Derendorf H. Pharmacometrics as a discipline is entering the "industrialization" phase: standards, automation, knowledge sharing, and training are critical for future success. J Clin Pharmacol. 2010 Sep;50(9 Suppl):9S-19S.

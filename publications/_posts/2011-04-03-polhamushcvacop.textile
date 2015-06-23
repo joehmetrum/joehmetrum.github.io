@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'A Time to Event Approach for Standard of Care Meta-Analysis in HCV Trials'
+authors: Polhamus, D, Baron KT, Purohit, VS, Ravva P, Rogers, JA, Gastonguay MR
+place: "Presented at ACOP 2011, San Diego, CA"
+pubdate: April 3-6, 2011
+volume:
+number:
+pages:
+link: /assets/pubs/acop_2011_timeToEvent.pdf
+areas: infectious
+---
+Polhamus, D, Baron KT, Purohit, VS, Ravva P, Rogers, JA, Gastonguay MR. A Time to Event Approach for Standard of Care Meta-Analysis in HCV Trials. Presented at ACOP 2011, San Diego, CA

@@ -1,0 +1,9 @@
+---
+layout: teampost
+title: COO and CIO
+name: Jeffrey T. Hane, Ph.D. 
+given: Jeff
+surname: Hane
+category: team
+---
+Jeff has extensive experience in pharma (20+ years) that includes regulatory compliance, quality assurance, discovery R&D, and technical operations. He focuses on cloud computing technologies (IaaS, code-managed architectures, transformation of legacy workflows) and their applications to biomedical modeling and simulation. He is also interested in any technology that streamlines the company's scientific or business processes. Jeff directs the information systems and business operations for MetrumRG.

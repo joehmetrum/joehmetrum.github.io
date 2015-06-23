@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'A Population Pharmacokinetic Model of Tacrolimus in Pediatric Liver Transplant Recipients'
+authors: Cirrincione-Dall G, Gastonguay MR, Knebel, W, Bergsma T, Zhang AY, Patel D, Barrett JS, van Schaik R, Soldin OP, Soldin SJ, Nulmin I, Koren G, de Wildt SN
+place: "Presented at ACOP 2011, San Diego, CA"
+pubdate: April 3-6, 2011
+volume:
+number:
+pages:
+link: /assets/pubs/acop_2011_tacrolimus.pdf
+areas: other
+---
+Cirrincione-Dall G, Gastonguay MR, Knebel, W, Bergsma T, Zhang AY, Patel D, Barrett JS, van Schaik R, Soldin OP, Soldin SJ, Nulmin I, Koren G, de Wildt SN. A Population Pharmacokinetic Model of Tacrolimus in Pediatric Liver Transplant Recipients. Presented at ACOP 2011, San Diego, CA.

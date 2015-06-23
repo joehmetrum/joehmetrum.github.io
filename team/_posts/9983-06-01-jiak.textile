@@ -1,0 +1,9 @@
+---
+layout: teampost
+title: Research Scientist
+name: Jia Kang, Ph.D.
+given: Jia
+surname: Kang
+category: team
+---
+Jia joined MetrumRG in 2013 as a Research Scientist. Her research interests are focused on modeling and simulation in pharmacokinetics and pharmacodynamics, and model-based meta-analysis using a Bayesian framework.

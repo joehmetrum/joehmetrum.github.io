@@ -1,0 +1,37 @@
+---
+layout: careerpost
+title: Research Scientist / Senior Scientist / Principal Scientist
+category: careers
+location: Tariffville, CT or Wellesley, MA
+col: 2
+---
+
+Metrum Research Group is seeking enthusiastic and motivated Scientists, at any level of experience, to join our team at the Tariffville, CT headquarters, or Boston-area office. At MetrumRG, you will participate in the research, development, and application of quantitative data analysis methods in biomedical sciences through collaborations with both academia and the pharma/biotech industry. MetrumRG provides a full benefits package and salary is competitive. Professional development is supported.
+
+Primary responsibilities:
+
+* Modeling and simulation to support drug development decision-making
+* Consultation and technical guidance for clients
+* Preparation of reports and presentation of results to clients, at conferences, and in peer-reviewed journals
+* Participation in both internal and external training opportunities
+
+You will also be expected to develop your own research interests, present and publish results, and expand your scientific knowledge and skills through professional development opportunities.
+
+Qualifications
+
+* Post-graduate degree in pharmacometrics, statistics, bioengineering, mathematics, or other related quantitative sciences, or relevant work experience
+* Excellent written and verbal communication skills
+* Strong work ethic and ability to contribute in a team-based environment
+* Prior experience in applying modeling and simulation tools such as NONMEM, Monolix, ADAPT, and BUGS to quantitative decision making
+* Experience programming/statistical tools such as SPLUS, R, MatLab, or SAS
+* Experience with Bayesian data analysis is highly desirable
+
+
+Metrum Research Group, established in 2004, is a global leader in biomedical modeling and simulation. We have provided strategic decision making for more than 100 companies on over 250 projects. At Metrum Research Group we support our clients in advancing drug development programs by supplying them with the highest quality scientific expertise. Please send resume and a brief cover letter in the body of an email. We prefer to hear directly from candidates. No recruiters please. Metrum Research Group is an equal opportunity employer. 
+
+<div style="padding:10px 0px 30px 0px;text-align:center"><a class="btn btn-success"href="mailto:employment@metrumrg.com?Subject=Scientist%20Position">Apply Now</a> </div>
+
+
+
+
+

@@ -1,0 +1,9 @@
+---
+layout: teampost
+title: Development and Resourcing Director
+name: James S. Marsan
+given: Jim
+surname: Marsan
+category: team
+---
+Jim has over 20 years experience spanning multiple disciplines including sales, sales operations, business development, contract negotiations, and project management. Jim oversees all contract negotiations and interfaces with Metrum scientists and executive management to ensure timely delivery of all project deliverables.

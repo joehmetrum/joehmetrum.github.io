@@ -1,0 +1,6 @@
+---
+layout: eventspost
+title: Metrum at ISOP 
+category: events
+---
+Metrum is attending the ISOP presentation "What Pharmacometrics Processes Need to Be Standardized? And How?", Thursday, March 27, Bridgewater Manor, Bridgewater, NJ.

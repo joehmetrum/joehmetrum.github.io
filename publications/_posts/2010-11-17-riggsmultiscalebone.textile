@@ -1,0 +1,15 @@
+---
+layout: pubpost
+category: publications
+title: 'A physiologically-based, multiscale model used to predict progressive bone mineral density loss due to chronic renal disease'
+authors: Riggs MM, Gastonguay MR, Peterson MC
+place: 
+presentedat: "Presented at 2010 American Association of Pharmaceutical Scientists (AAPS) Annula Meeting, New Orleans LA"
+pubdate: November 17, 2010
+volume: 
+number: Poster # W4403
+pages: 
+link: /assets/pubs/aaps-2010-bonemodel.pdf
+areas: bone
+---
+Riggs MM, Gastonguay MR, Peterson MC. A physiologically-based, multiscale model used to predict progressive bone mineral density loss due to chronic renal disease. Presented at 2010 American Association of Pharmaceutical Scientists (AAPS) Annula Meeting, New Orleans LA; November 17, 2010; Poster # W4403

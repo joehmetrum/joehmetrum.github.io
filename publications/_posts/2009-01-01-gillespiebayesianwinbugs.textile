@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Prototype Model Library for Bayesian Pharmacokinetic/Pharmacodynamic (PKPD) Modeling in Winbugs'
+authors: Gillespie B, Gastonguay MR
+place: ""
+pubdate: sometime 2009
+volume: 
+number: 
+pages: 
+link: /assets/pubs/winbugs_poster_2009.pdf
+areas: methodology
+---
+Gillespie B, Gastonguay MR. Prototype Model Library for Bayesian Pharmacokinetic/Pharmacodynamic (PKPD) Modeling in Winbugs.

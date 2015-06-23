@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'A novel model-based meta-analysis to indirectly estimate the comparative efficacy of two medications: an example using DPP-4 inhibitors, sitagliptin and linagliptin, in treatment of type 2 diabetes mellitus'
+authors: Jorge Luiz Gross, James Rogers, Daniel Polhamus, William Gillespie, Christian Friedrich, Yan Gong, Brigitta Ursula Monz, Sanjay Patel, Alexander Staab, Silke Retlich
+place: "BMJ Open"
+pubdate: 5 March 2013
+volume: 
+number: 
+pages: 
+link: http://bmjopen.bmj.com/content/3/3/e001844.full.pdf
+areas: cardiovascular
+---
+Jorge Luiz Gross, James Rogers, Daniel Polhamus, William Gillespie, Christian Friedrich, Yan Gong, Brigitta Ursula Monz, Sanjay Patel, Alexander Staab, Silke Retlich. A novel model-based meta-analysis to indirectly estimate the comparative efficacy of two medications: an example using DPP-4 inhibitors, sitagliptin and linagliptin, in treatment of type 2 diabetes mellitus. BMJ Open. 5 March 2013.

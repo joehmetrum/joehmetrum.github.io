@@ -1,0 +1,9 @@
+---
+layout: teampost
+title: Vice President, Strategic Modeling and Simulation
+name: William R. Gillespie, Ph.D. 
+given: Bill
+surname: Gillespie
+category: team
+---
+For over 20 years Bill has been involved in the development and application of pharmacometric methodology for enhancing drug treatment, development and regulation. His current interests include the use of Bayesian modeling and simulation to optimize decision-making in clinical drug development and treatment. He plans to make Bayesian modeling and simulation methods more accessible via training programs and development of software tools.

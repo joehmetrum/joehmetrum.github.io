@@ -1,0 +1,9 @@
+---
+layout: teampost
+title: Director
+name: Jeannine M. Fisher, M.S.
+given: Jeannine
+surname: Fisher
+category: team
+---
+Jeannine has 7+ years of clinical research experience in the pharmaceutical industry and additional pharmaceutical research expertise in drug metabolism. With extensive knowledge in Phase 1 clinical trial design and analysis, Jeannine is interested in the application of more advanced population PK/PD modeling and simulation techniques to influence the later phases of drug development.

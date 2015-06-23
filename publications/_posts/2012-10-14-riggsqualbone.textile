@@ -1,0 +1,11 @@
+---
+layout: pubpost
+category: publications
+title: "Qualification of a Physiologically-Based Model for Predicted Bone Marker and Bone Mineral Density Changes Associated with Denosumab Treatment"
+authors: Matthew M. Riggs, Kyle T. Baron, Elodie L. Plan, Marc R. Gastonguay
+place: "Presented at American Society of Bone Mineral Research (ASBMR) Annual Meeting, Minneapolis, MN (Abstract# SU0363)"
+pubdate: October 14, 2012
+link: http://dx.doi.org/10.1016/j.cmpb.2012.08.009
+areas: bone
+---
+Matthew M. Riggs, Kyle T. Baron, Elodie L. Plan, Marc R. Gastonguay. Qualification of a Physiologically-Based Model for Predicted Bone Marker and Bone Mineral Density Changes Associated with Denosumab Treatment. Presented at American Society of Bone Mineral Research (ASBMR) Annual Meeting, Minneapolis, MN; October 14, 2012 (Abstract# SU0363).

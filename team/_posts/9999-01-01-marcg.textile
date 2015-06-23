@@ -1,0 +1,9 @@
+---
+layout: teampost
+title: President and CEO
+name: Marc R. Gastonguay, Ph.D. 
+given: Marc
+surname: Gastonguay
+category: team
+---
+For the last 20 years, Marc has been applying mathematical M&S techniques to problems in clinical pharmacology and drug development across industrial, government, and academic settings. Marc provides the scientific and thought leadership for MetrumRG.

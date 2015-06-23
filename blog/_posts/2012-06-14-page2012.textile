@@ -1,0 +1,26 @@
+---
+layout: blogpost
+title: Metrum Research Group Presents at PAGE 2012
+author: Mary Delaney
+category: blog
+---
+
+Last week, Bill Gillespie and Elodie Plan journeyed to Venice, Italy representing Metrum Research Group at the Population Approach Group Europe (PAGE 2012) meeting. Bill and Elodie presented posters of their recent work and communicated the features of METAMODL (www.metamodl.com/) to conference goers.
+
+ <div style="margin:0 auto; text-align:center;">
+<a  href="/ctas/page2012.html" class="btn btn-large btn-success">Download Metrum Research Group's Poster</a>
+</div>
+ 
+
+Bill and Elodie were inspired as always by the conference, which featured stimulating oral presentations emphasizing significant advances in the field of pharmacometrics. Among the topics shared with conference attendees were methodological or applied findings concerning Markov, item-response, and variability models.
+
+Hopefully you had the opportunity to attend this high-level conference on pharmacometrics, but for those of you who missed it, here is an outline of some of the highlights.
+
+Population analysis practices and therefore clinical endpoints characterization can be further improved with the use of these features:
+
+Markov models enable the dependency between pharmacodynamic observations to be taken into account.
+Item-response models acknowledge the composite structure of many efficacy scores.
+Variability models allow dynamic distribution transformation of the residual error.
+Reducing the impact of assumptions and tailoring the model to the nature of the data leads to valid inferences on which clinical decisions can be made.
+
+More exciting conferences to look forward to this year in the ever-evolving field of pharmacometrics. Stay tuned!

@@ -1,0 +1,77 @@
+---
+layout: default
+title: Open Source Tools
+---
+        <div class="jumbotron jumbo-head">
+          <div class="container">
+            <h1>Open Source Tools</h1>
+          </div>
+        </div>
+        <div class="container">
+        <div class="row">
+            <div class="col-sm-2 col-md-2">
+                <ul class="nav nav-pills nav-stacked bgc bordered">
+                    <li><a href="https://bitbucket.org/metrumrg/bugsmodellibrary/" target="_blank">Bugs Model Library</a></li>
+                    <li><a href="https://bitbucket.org/metrumrg/bugsparallel/" target="_blank">Bugs Parallel</a></li>
+                    <li><a href="https://bitbucket.org/metrumrg/nmqual/" target="_blank">NMQual</a></li>
+                    <li><a href="https://r-forge.r-project.org/R/?group_id=2031" target="_blank">fork</a></li>
+                    <li><a href="https://r-forge.r-project.org/projects/metrumrg/" target="_blank">metrumrg</a></li>
+                    <li><a href="https://r-forge.r-project.org/projects/review/" target="_blank">review</a></li>
+                    <li><a href="https://r-forge.r-project.org/R/?group_id=2031" target="_blank">SASxport</a></li>
+                        </ul>
+                    </div>
+            
+                    <div class="bgc bordered container-padding col-sm-10 col-md-10">
+                    
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 col-lg-12">
+                            
+                            <h2 class="blackhead">Open Source Tools</h2>
+                        <p>At Metrum Research Group, we are strong advocates of open-source software development efforts. In fact, we make several of the useful tools we've developed for our own work available as free, open-source software under <a href="http://www.gnu.org/copyleft/gpl.html" target="_blank">GPL</a>. You'll find these tools hosted by Google Code or CRAN, at the links listed below. If you use these tools in your work, please acknowledge Metrum Research Group LLC, Tariffville, CT 06081 in any derived documents. Some of the tools are also associated with peer-reviewed publications, which are indicated with each distribution, and should also be referenced.</p>
+            </div>
+          </div>
+                <hr>
+          <div class="row">
+              <div class="col-sm-6 col-md-6">
+                <h3 class="blackhead"><a href="https://bitbucket.org/metrumrg/bugsmodellibrary/" target="_blank">Bugs Model Library</a></h3>
+                                <p>BUGSModelLibrary is a prototype PKPD model library for use with WinBUGS 1.4.3. The current version includes specific linear compartmental models (one compartment model with first order absorption and two compartment model with elimination from and first order absorption into central compartment), general linear compartmental model described by matrix exponential, and general compartmental model described by a system of first order ODEs. The models and data are based on NONMEM/NMTRAN/PREDPP conventions including recursive calculation (this permits piecewise constant covariate values), bolus or constant rate inputs into any compartment, handles single dose, multiple dose and steady-state dosing histories, implemented NMTRAN data items including TIME, EVID, CMT, AMT, RATE, ADDL, II, and SS. </p>
+                                
+<p>The library provides BUGS language functions that calculate amounts in each compartment.</p>
+
+                
+                <h3 class="blackhead opensource"><a href="https://bitbucket.org/metrumrg/nmqual/" target="_blank">NMQual</a></h3>
+                                    <p>NMQual is software designed to assist in the installation, qualification, and running of the NONMEM software. NONMEM is proprietary software for nonlinear mixed effects modeling, distributed solely by Icon Development Solutions, Ellicott City, MD. Although it is not domain specific, most users are in pharmacology and related disciplines. An active user group is maintained at nmusers@globomaxnm.com. Valid license holders have limited means of installing and maintaining their NONMEM software. Major versions are released every several years. Media includes a DOS script for installing on Windows and a shell script for installing on UNIX. As bugs are discovered, remedies are reported on the help list, to be implemented by hand. Such manual interventions are tedious, and lack the sort of documentation increasingly expected in a federally regulated industry.  Configuration details and bug fix details are pre-specified in XML files. Installation and operation of NMQual-mediated NONMEM installations generate XML logs for traceability.</p>
+                                
+                 <h3 class="blackhead opensource"><a href="https://r-forge.r-project.org/projects/metrumrg/" target="_blank">metrumrg</a></h3>            
+                                <p>Pharmacometric tools for common data preparation tasks, stratified bootstrap resampling of data sets, NONMEM control stream creation/editing, NONMEM model execution, creation of standard and user-defined diagnostic plots, execution and summary of bootstrap and predictive check results, implementation of simulations from posterior parameter distributions, reporting of output tables and creation of detailed analysis logs.</p>          
+
+        
+        </div>
+        
+        <div class="col-sm-6 col-md-6">
+
+                    <h3 class="blackhead"><a href="https://bitbucket.org/metrumrg/bugsparallel/" target="_blank">Bugs Parallel</a></h3>
+                                        <p>bugsParallel is a set of R functions for distributed computing with WinBUGS. BugsParallel has been successfully installed on MS Windows and Mac OS X platforms, is a modified subset of the R2WinBugs package, uses the R package Rmpi to implement a network of Windsor workstations, and uses the rlecuyer package for parallel random number generation. </p>
+                                        
+                                        <p> When used for a Bayesian analysis, Markov chain Monte Carlo (MCMC) simulations generate samples that approximate the joint posterior distribution of the sampled parameters. The sequential nature of MCMC simulation limits the beneﬁts of parallel computation when applied to a single chain. However parallel computation of multiple chains is an “embarassingly parallel” problem that can substantially reduce computation time and is relatively easy to implement using bugsParallel in combination with other freely available software.</p>
+  
+
+                <h3 class="blackhead opensource"><a href="https://r-forge.r-project.org/R/?group_id=2031" target="_blank">fork</a></h3>
+                              <p>These functions provides simple wrappers around the Unix process management API calls: fork, signal, wait, waitpid, kill, and _exit. This enables construction of programs that utilize and mange multiple concurrent processes.</p>   
+                
+                
+                <h3 class="blackhead opensource"><a href="https://r-forge.r-project.org/projects/review/" target="_blank">review</a></h3>
+                                <p>Functions for managing logs of reviews of files in a subversion repository (http://subversion.apache.org/).</p>
+                
+                <h3 class="blackhead opensource"><a href="https://r-forge.r-project.org/R/?group_id=2031" target="_blank">SASxport</a></h3>
+                            <p>This package provides functions for reading, listing the contents of, and writing SAS xport format files. The functions support reading and writing of either individual data frames or sets of data frames. Further, a mechanism has been provided for customizing how variables of different data types are stored.</p>
+                            </div>
+                        </div>
+                                                <div class="row">   
+                        <div class="col-sm-12 col-md-12">
+            
+            <div class="row" style="margin:35px 0 20px 0"><div class="col-sm-12 col-md-12" style="text-align:center"><a class="btn btn-success btn-lg" href="/contact.html">Contact a Scientist</a> </div></div>
+            </div>
+
+</div>
+</div></div>

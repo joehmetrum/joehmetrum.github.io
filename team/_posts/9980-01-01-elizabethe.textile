@@ -1,0 +1,9 @@
+---
+layout: teampost
+title: Compliance and Contracts Specialist
+name: Elizabeth A. Essenfeld
+given: Elizabeth
+surname: Essenfeld
+category: team
+---
+Elizabeth holds a BS degree with concentrations in Pharmaceuticals and Business. She served as a Pharmacy Technician for the United States Air Force. Most recently, she worked in environmental inspection and testing as a project scientist and industrial hygienist.

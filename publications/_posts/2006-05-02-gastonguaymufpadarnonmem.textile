@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Acknowledging Parameter Uncertainty by Simulating from Posterior Distributions with NONMEM and R'
+authors: Gastonguay MR, Gibiansky L
+place: "MUFPADA Annual Meeting"
+pubdate: May 2006
+volume: 
+number: 
+pages: 
+link: /assets/pubs/mufpada_2006_RNONMEMtoolbox.pdf
+areas: methodology
+---
+Gastonguay MR, Gibiansky L. Acknowledging Parameter Uncertainty by Simulating from Posterior Distributions with NONMEM and R. MUFPADA Annual Meeting (2006) Abstract.

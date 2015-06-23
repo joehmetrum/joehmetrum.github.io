@@ -1,0 +1,9 @@
+---
+layout: teampost
+title: Informations System Specialist
+name: Joseph O. Hebert
+given: Joe
+surname: Hebert
+category: team
+---
+Joseph is a graduate of UMass Amherst, where he majored in English, minored in Chinese Language and Literature, and earned a certificate of concentration in Professional Writing and Technical Communication. He lived and worked as a teacher and magazine editor in Tianjin, China for three years and is a fluent speaker of Mandarin Chinese.

@@ -1,0 +1,9 @@
+---
+layout: teampost
+title: Principal Scientist II and Director, MetroBoston
+name: CJ Godfrey, Ph.D.
+given: CJ
+surname: Godfrey
+category: team
+---
+CJ has 13 years of drug development experience in both pharma and consulting roles and has been applying pharmacometric methods to PK/PD/outcome analysis and decision support for 19 years.  His clinical experience spans a broad range of biomarker, safety, and efficacy endpoints with particular emphasis on oncology, inflammation, and viral diseases.   He has extensive experience in performing model-based meta-analyses and near-real-time population PK/PD modeling to support informed and timely decision making.

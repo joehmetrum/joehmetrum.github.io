@@ -1,0 +1,9 @@
+---
+layout: teampost
+title: Principal Scientist
+name: John T. Mondick, Ph.D.
+given: John
+surname: Mondick
+category: team
+---
+John has 5 years of experience in the pharmaceutical industry and academia applying modeling and simulation to problems in clinical pharmacology. John’s interests include the application of modeling and simulation in pediatric pharmacology and the development of mechanistic models to optimize decision making in drug development.

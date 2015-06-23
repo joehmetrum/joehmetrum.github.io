@@ -1,0 +1,14 @@
+---
+layout: blogpost
+title: Open Availability of Pharmacometrics Training Lectures
+author: Mary Delaney
+category: blog
+---
+Metrum Institute recently announced the open availability of pharmacometrics training lectures:
+<div style="margin:0 auto; text-align:center;">
+<a  href="http://youtube.com/metruminst" class="btn btn-large btn-success">Pharmacometrics Training Lectures</a>
+</div>
+<br>
+While this initiative will serve the training needs of many, we recognize the need for additional commercial training support. Metrum Research Group will continue to provide on-site training services on a range of pharmacometrics-related topics, including new and/or custom material. Please click on the link below to contact us for more details. 
+<div class="row-fluid" style="margin:35px 0 20px 0"><div class="span12" style="text-align:center"><a class="btn btn-large btn-success" href="/contact.html">Contact Us</a> </div></div>
+

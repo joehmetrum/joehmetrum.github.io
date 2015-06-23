@@ -1,0 +1,416 @@
+---
+layout: default
+title: Publications
+---
+			<div class="jumbotron jumbo-head">
+				<div class="container">
+					<h1>Publications</h1>
+				</div>
+			</div>
+<div class="container">
+
+	<div style="margin-bottom: 10px;">
+		<a href="/publications/index.html" class="btn disabled btn-default">By Topic</a>
+		<a href="/publications/pub-byyear.html" class="btn btn-default">By Year</a>
+	</div>
+	
+	<div class="accordion bgc bordered container-padding" id="accordion2">
+		<div class="accordion-group">
+			<div class="accordion-heading">
+				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapsebone">
+					<h2 class="pubyear">Bone Health</h2>
+				</a>
+			</div>
+			<div id="collapsebone" class="accordion-body collapse">
+				<div class="accordion-inner">
+					<ul class="pubslist list-unstyled">
+					  {% assign pubcounter = 1 %}
+						{% for post in site.categories.publications %}
+						{% if post.areas contains 'bone' or post.areas == 'bone' %}
+						  {% assign pmod = pubcounter | modulo:2 %}
+							{% if pmod == 1 %}
+						    <li><a style="color:#444;" href="{{ post.url }}">{{ post.content }}</a>
+							    {% if post.link contains '.pdf' %}
+									 <a href="{{post.link}}" data-ob="lightbox" target="_blank">PDF Link <i class="fa fa-external-link"></i></a></p>
+								{% else %}
+							    	{% if post.link contains 'none' %}
+									{% else %}
+										<a href="{{post.link}}" target="_blank">External Link <i class="fa fa-external-link"></i></a></p>
+									{% endif %}
+								{% endif %}
+							</li>
+						    {% assign pubcounter = pubcounter | plus:1 %}
+						  {% else %}
+ 						    <li style="background-color:#f3f3f3;"><a style="color:#444;" href="{{ post.url }}">{{ post.content }}</a>
+ 						    {% if post.link contains '.pdf' %}
+									 <a href="{{post.link}}" data-ob="lightbox" target="_blank">PDF Link <i class="fa fa-external-link"></i></a></p>
+								{% else %}
+							    	{% if post.link contains 'none' %}
+									{% else %}
+										<a href="{{post.link}}" target="_blank">External Link <i class="fa fa-external-link"></i></a></p>
+									{% endif %}
+								{% endif %}
+							</li>
+						    {% assign pubcounter = pubcounter | plus:1 %}
+						  {% endif %}  
+						{% endif %} 
+						{% endfor %}
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="accordion-group">
+			<div class="accordion-heading">
+				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapsecardiovascular">
+					<h2 class="pubyear">Cardiovascular and Metabolic Disorders</h2>
+				</a>
+			</div>
+			<div id="collapsecardiovascular" class="accordion-body collapse">
+				<div class="accordion-inner">
+					<ul class="pubslist list-unstyled">
+					  {% assign pubcounter = 1 %}
+						{% for post in site.categories.publications %}
+						{% if post.areas contains 'cardiovascular' or post.areas == 'cardiovascular' %}
+						  {% assign pmod = pubcounter | modulo:2 %}
+							{% if pmod == 1 %}
+						    <li><a style="color:#444;" href="{{ post.url }}">{{ post.content }}</a>
+								{% if post.link contains '.pdf' %}
+									 <a href="{{post.link}}" data-ob="lightbox" target="_blank">PDF Link <i class="fa fa-external-link"></i></a></p>
+								{% else %}
+							    	{% if post.link contains 'none' %}
+									{% else %}
+										<a href="{{post.link}}" target="_blank">External Link <i class="fa fa-external-link"></i></a></p>
+									{% endif %}
+								{% endif %}
+						    </li>
+						    {% assign pubcounter = pubcounter | plus:1 %}
+						  {% else %}
+ 						    <li style="background-color:#f3f3f3;"><a style="color:#444;" href="{{ post.url }}">{{ post.content }}</a>
+ 						    	{% if post.link contains '.pdf' %}
+									 <a href="{{post.link}}" data-ob="lightbox" target="_blank">PDF Link <i class="fa fa-external-link"></i></a></p>
+								{% else %}
+							    	{% if post.link contains 'none' %}
+									{% else %}
+										<a href="{{post.link}}" target="_blank">External Link <i class="fa fa-external-link"></i></a></p>
+									{% endif %}
+								{% endif %}
+ 						    </li>
+						    {% assign pubcounter = pubcounter | plus:1 %}
+						  {% endif %}  
+						{% endif %} 
+						{% endfor %}
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="accordion-group">
+			<div class="accordion-heading">
+				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseinfectious">
+					<h2 class="pubyear">Infectious Diseases</h2>
+				</a>
+			</div>
+			<div id="collapseinfectious" class="accordion-body collapse">
+				<div class="accordion-inner">
+					<ul class="pubslist list-unstyled">
+					  {% assign pubcounter = 1 %}
+						{% for post in site.categories.publications %}
+						{% if post.areas contains 'infectious' or post.areas == 'infectious' %}
+						  {% assign pmod = pubcounter | modulo:2 %}
+							{% if pmod == 1 %}
+						    <li><a style="color:#444;" href="{{ post.url }}">{{ post.content }}</a>
+						    	{% if post.link contains '.pdf' %}
+									 <a href="{{post.link}}" data-ob="lightbox" target="_blank">PDF Link <i class="fa fa-external-link"></i></a></p>
+								{% else %}
+							    	{% if post.link contains 'none' %}
+									{% else %}
+										<a href="{{post.link}}" target="_blank">External Link <i class="fa fa-external-link"></i></a></p>
+									{% endif %}
+								{% endif %}
+						    </li>
+						    {% assign pubcounter = pubcounter | plus:1 %}
+						  {% else %}
+ 						    <li style="background-color:#f3f3f3;"><a style="color:#444;" href="{{ post.url }}">{{ post.content }}</a>
+ 						    	{% if post.link contains '.pdf' %}
+									 <a href="{{post.link}}" data-ob="lightbox" target="_blank">PDF Link <i class="fa fa-external-link"></i></a></p>
+								{% else %}
+							    	{% if post.link contains 'none' %}
+									{% else %}
+										<a href="{{post.link}}" target="_blank">External Link <i class="fa fa-external-link"></i></a></p>
+									{% endif %}
+								{% endif %}
+ 						    </li>
+						    {% assign pubcounter = pubcounter | plus:1 %}
+						  {% endif %}  
+						{% endif %} 
+						{% endfor %}
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="accordion-group">
+			<div class="accordion-heading">
+				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapsemethodology">
+					<h2 class="pubyear">Methodology, Tools, and Computation</h2>
+				</a>
+			</div>
+			<div id="collapsemethodology" class="accordion-body collapse">
+				<div class="accordion-inner">
+					<ul class="pubslist list-unstyled">
+					  {% assign pubcounter = 1 %}
+						{% for post in site.categories.publications %}
+						{% if post.areas contains 'methodology' or post.areas == 'methodology' %}
+						  {% assign pmod = pubcounter | modulo:2 %}
+							{% if pmod == 1 %}
+						    <li><a style="color:#444;" href="{{ post.url }}">{{ post.content }}</a>
+						    	{% if post.link contains '.pdf' %}
+									 <a href="{{post.link}}" data-ob="lightbox" target="_blank">PDF Link <i class="fa fa-external-link"></i></a></p>
+								{% else %}
+							    	{% if post.link contains 'none' %}
+									{% else %}
+										<a href="{{post.link}}" target="_blank">External Link <i class="fa fa-external-link"></i></a></p>
+									{% endif %}
+								{% endif %}
+						    </li>
+						    {% assign pubcounter = pubcounter | plus:1 %}
+						  {% else %}
+ 						    <li style="background-color:#f3f3f3;"><a style="color:#444;" href="{{ post.url }}">{{ post.content }}</a>
+ 						    	{% if post.link contains '.pdf' %}
+									 <a href="{{post.link}}" data-ob="lightbox" target="_blank">PDF Link <i class="fa fa-external-link"></i></a></p>
+								{% else %}
+							    	{% if post.link contains 'none' %}
+									{% else %}
+										<a href="{{post.link}}" target="_blank">External Link <i class="fa fa-external-link"></i></a></p>
+									{% endif %}
+								{% endif %}
+ 						    </li>
+						    {% assign pubcounter = pubcounter | plus:1 %}
+						  {% endif %}  
+						{% endif %} 
+						{% endfor %}
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="accordion-group">
+			<div class="accordion-heading">
+				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseneurodegenerative">
+					<h2 class="pubyear">Neurodegenerative Diseases</h2>
+				</a>
+			</div>
+			<div id="collapseneurodegenerative" class="accordion-body collapse">
+				<div class="accordion-inner">
+					<ul class="pubslist list-unstyled">
+					  {% assign pubcounter = 1 %}
+						{% for post in site.categories.publications %}
+						{% if post.areas contains 'neurodegenerative' or post.areas == 'neurodegenerative' %}
+						  {% assign pmod = pubcounter | modulo:2 %}
+							{% if pmod == 1 %}
+						    <li><a style="color:#444;" href="{{ post.url }}">{{ post.content }}</a>
+						    	{% if post.link contains '.pdf' %}
+									 <a href="{{post.link}}" data-ob="lightbox" target="_blank">PDF Link <i class="fa fa-external-link"></i></a></p>
+								{% else %}
+							    	{% if post.link contains 'none' %}
+									{% else %}
+										<a href="{{post.link}}" target="_blank">External Link <i class="fa fa-external-link"></i></a></p>
+									{% endif %}
+								{% endif %}
+						    </li>
+						    {% assign pubcounter = pubcounter | plus:1 %}
+						  {% else %}
+ 						    <li style="background-color:#f3f3f3;"><a style="color:#444;" href="{{ post.url }}">{{ post.content }}</a>
+ 						    	{% if post.link contains '.pdf' %}
+									 <a href="{{post.link}}" data-ob="lightbox" target="_blank">PDF Link <i class="fa fa-external-link"></i></a></p>
+								{% else %}
+							    	{% if post.link contains 'none' %}
+									{% else %}
+										<a href="{{post.link}}" target="_blank">External Link <i class="fa fa-external-link"></i></a></p>
+									{% endif %}
+								{% endif %}
+ 						    </li>
+						    {% assign pubcounter = pubcounter | plus:1 %}
+						  {% endif %}  
+						{% endif %} 
+						{% endfor %}
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="accordion-group">
+			<div class="accordion-heading">
+				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseoncology">
+					<h2 class="pubyear">Oncology</h2>
+				</a>
+			</div>
+			<div id="collapseoncology" class="accordion-body collapse">
+				<div class="accordion-inner">
+					<ul class="pubslist list-unstyled">
+					  {% assign pubcounter = 1 %}
+						{% for post in site.categories.publications %}
+						{% if post.areas contains 'oncology' or post.areas == 'oncology' %}
+						  {% assign pmod = pubcounter | modulo:2 %}
+							{% if pmod == 1 %}
+						    <li><a style="color:#444;" href="{{ post.url }}">{{ post.content }}</a>
+						    	{% if post.link contains '.pdf' %}
+									 <a href="{{post.link}}" data-ob="lightbox" target="_blank">PDF Link <i class="fa fa-external-link"></i></a></p>
+								{% else %}
+							    	{% if post.link contains 'none' %}
+									{% else %}
+										<a href="{{post.link}}" target="_blank">External Link <i class="fa fa-external-link"></i></a></p>
+									{% endif %}
+								{% endif %}
+						    </li>
+						    {% assign pubcounter = pubcounter | plus:1 %}
+						  {% else %}
+ 						    <li style="background-color:#f3f3f3;"><a style="color:#444;" href="{{ post.url }}">{{ post.content }}</a>
+ 						    	{% if post.link contains '.pdf' %}
+									 <a href="{{post.link}}" data-ob="lightbox" target="_blank">PDF Link <i class="fa fa-external-link"></i></a></p>
+								{% else %}
+							    	{% if post.link contains 'none' %}
+									{% else %}
+										<a href="{{post.link}}" target="_blank">External Link <i class="fa fa-external-link"></i></a></p>
+									{% endif %}
+								{% endif %}
+ 						    </li>
+						    {% assign pubcounter = pubcounter | plus:1 %}
+						  {% endif %}  
+						{% endif %} 
+						{% endfor %}
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="accordion-group">
+			<div class="accordion-heading">
+				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapsepeds">
+					<h2 class="pubyear">Pediatrics</h2>
+				</a>
+			</div>
+			<div id="collapsepeds" class="accordion-body collapse">
+				<div class="accordion-inner">
+					<ul class="pubslist list-unstyled">
+					  {% assign pubcounter = 1 %}
+						{% for post in site.categories.publications %}
+						{% if post.areas contains 'peds' or post.areas == 'peds' or post.title contains 'pediatric' or post.title contains 'Pediatric' or post.title contains 'Children' or post.title contains 'Child' or post.title contains 'Adolescents' or post.title contains 'Adolescent' or post.title contains 'children' or post.title contains 'child' or post.title contains 'adolescents' or post.title contains 'adolescent' or post.title contains 'Infant' or post.title contains 'Infants' or post.title contains 'infant' or post.title contains 'infants' or post.title contains 'Neonates' or post.title contains 'neonates' %}
+						  {% assign pmod = pubcounter | modulo:2 %}
+							{% if pmod == 1 %}
+						    <li><a style="color:#444;" href="{{ post.url }}">{{ post.content }}</a>
+						    	{% if post.link contains '.pdf' %}
+									 <a href="{{post.link}}" data-ob="lightbox" target="_blank">PDF Link <i class="fa fa-external-link"></i></a></p>
+								{% else %}
+							    	{% if post.link contains 'none' %}
+									{% else %}
+										<a href="{{post.link}}" target="_blank">External Link <i class="fa fa-external-link"></i></a></p>
+									{% endif %}
+								{% endif %}
+						    </li>
+						    {% assign pubcounter = pubcounter | plus:1 %}
+						  {% else %}
+ 						    <li style="background-color:#f3f3f3;"><a style="color:#444;" href="{{ post.url }}">{{ post.content }}</a>
+ 						    	{% if post.link contains '.pdf' %}
+									 <a href="{{post.link}}" data-ob="lightbox" target="_blank">PDF Link <i class="fa fa-external-link"></i></a></p>
+								{% else %}
+							    	{% if post.link contains 'none' %}
+									{% else %}
+										<a href="{{post.link}}" target="_blank">External Link <i class="fa fa-external-link"></i></a></p>
+									{% endif %}
+								{% endif %}
+ 						    </li>
+						    {% assign pubcounter = pubcounter | plus:1 %}
+						  {% endif %}  
+						{% endif %} 
+						{% endfor %}
+					</ul>
+				</div>
+			</div>
+		</div>
+
+		<div class="accordion-group">
+			<div class="accordion-heading">
+				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapserare">
+					<h2 class="pubyear">Rare Disorders</h2>
+				</a>
+			</div>
+			<div id="collapserare" class="accordion-body collapse">
+				<div class="accordion-inner">
+					<ul class="pubslist list-unstyled">
+					  {% assign pubcounter = 1 %}
+						{% for post in site.categories.publications %}
+						{% if post.areas contains 'rare' or post.areas == 'rare' %}
+						  {% assign pmod = pubcounter | modulo:2 %}
+							{% if pmod == 1 %}
+						    <li><a style="color:#444;" href="{{ post.url }}">{{ post.content }}</a>
+						    	{% if post.link contains '.pdf' %}
+									 <a href="{{post.link}}" data-ob="lightbox" target="_blank">PDF Link <i class="fa fa-external-link"></i></a></p>
+								{% else %}
+							    	{% if post.link contains 'none' %}
+									{% else %}
+										<a href="{{post.link}}" target="_blank">External Link <i class="fa fa-external-link"></i></a></p>
+									{% endif %}
+								{% endif %}
+						    </li>
+						    {% assign pubcounter = pubcounter | plus:1 %}
+						  {% else %}
+ 						    <li style="background-color:#f3f3f3;"><a style="color:#444;" href="{{ post.url }}">{{ post.content }}</a>
+ 						    	{% if post.link contains '.pdf' %}
+									 <a href="{{post.link}}" data-ob="lightbox" target="_blank">PDF Link <i class="fa fa-external-link"></i></a></p>
+								{% else %}
+							    	{% if post.link contains 'none' %}
+									{% else %}
+										<a href="{{post.link}}" target="_blank">External Link <i class="fa fa-external-link"></i></a></p>
+									{% endif %}
+								{% endif %}
+ 						    /li>
+						    {% assign pubcounter = pubcounter | plus:1 %}
+						  {% endif %}  
+						{% endif %} 
+						{% endfor %}
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="accordion-group">
+			<div class="accordion-heading">
+				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseother">
+					<h2 class="pubyear">Other</h2>
+				</a>
+			</div>
+			<div id="collapseother" class="accordion-body collapse">
+				<div class="accordion-inner">
+					<ul class="pubslist list-unstyled">
+					  {% assign pubcounter = 1 %}
+						{% for post in site.categories.publications %}
+						{% if post.areas contains 'other' or post.areas == 'other' %}
+						  {% assign pmod = pubcounter | modulo:2 %}
+							{% if pmod == 1 %}
+						    <li><a style="color:#444;" href="{{ post.url }}">{{ post.content }}</a>
+						    	{% if post.link contains '.pdf' %}
+									 <a href="{{post.link}}" data-ob="lightbox" target="_blank">PDF Link <i class="fa fa-external-link"></i></a></p>
+								{% else %}
+							    	{% if post.link contains 'none' %}
+									{% else %}
+										<a href="{{post.link}}" target="_blank">External Link <i class="fa fa-external-link"></i></a></p>
+									{% endif %}
+								{% endif %}
+						    </li>
+						    {% assign pubcounter = pubcounter | plus:1 %}
+						  {% else %}
+ 						    <li style="background-color:#f3f3f3;"><a style="color:#444;" href="{{ post.url }}">{{ post.content }}</a>
+ 						    	{% if post.link contains '.pdf' %}
+									 <a href="{{post.link}}" data-ob="lightbox" target="_blank">PDF Link <i class="fa fa-external-link"></i></a></p>
+								{% else %}
+							    	{% if post.link contains 'none' %}
+									{% else %}
+										<a href="{{post.link}}" target="_blank">External Link <i class="fa fa-external-link"></i></a></p>
+									{% endif %}
+								{% endif %}
+ 						    </li>
+						    {% assign pubcounter = pubcounter | plus:1 %}
+						  {% endif %}  
+						{% endif %} 
+						{% endfor %}
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+

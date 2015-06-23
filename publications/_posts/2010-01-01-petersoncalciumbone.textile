@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'A physiologically based mathematical model of integrated calcium homeostasis and bone remodeling'
+authors: Peterson MC, Riggs MM
+place: "Bone"
+pubdate: January 2010
+volume: 46
+number: 
+pages: 49-63
+link: http://doi.org/10.1016/j.bone.2009.08.053
+areas: bone
+---
+Peterson MC, Riggs MM. A physiologically based mathematical model of integrated calcium homeostasis and bone remodeling. Bone. 2010 Jan; 46: 49-63.

@@ -1,0 +1,21 @@
+---
+layout: blogpost
+title: Can methods based on existing models really aid decision making in non-small-cell lung cancer (NSCLC) trials?
+author: Jonathan French
+category: blog
+---
+I recently returned from the 2013 PAGE meeting in Glasgow.  As usual, the scientific presentations were some of the best in the field of pharmacometrics.  At this year’s meeting I was offered an opportunity to present some of our recent thoughts about model-based drug development in oncology.
+
+In order to facilitate more efficient drug development in oncology, several authors have advocated for the use a framework that combines drug-specific models to estimate effects on tumor growth and disease-specific (but drug-independent) models that relate tumor growth inhibition to overall survival.<sup>1</sup> Using this framework allows us to predict a drug’s effect on OS after observing, or estimating, its effect on tumor growth.  One application of this framework was published by Wang et al.<sup>2</sup>, in which the % change in NSCLC tumor size at 8 weeks (PTR8) is used as a predictor of time to death.
+
+We propose that a generalization of this framework, using Bayesian posterior predictive distributions, can be used for interim monitoring of Phase II/III studies.  The Bayesian approach updates both the drug-specific and disease-specific components of the model using data that accrues during the clinical trial.  We conducted a small simulation study using the model of Wang et al. to initially evaluate this proposition.  In our simulation study we compare three decision rules: one based on PTR8, one based on the Bayesian posterior predictive distribution for the log hazard ratio at the end of the study, and one based on the log hazard ratio estimated from a Cox model. 
+
+<div style="margin:0 auto; text-align:center;">
+<a  href="/ctas/NSCLC-PAGE-2013.html" class="btn btn-large btn-success">Download Metrum Research Group's Presentation</a>
+</div>
+
+References:
+
+<sup>1</sup> Bruno, R et al. Model-Based Drug Development in Oncology: What’s Next?  Clin Pharmacol Ther. 93, 303--305 (2013).
+
+<sup>2</sup> Wang Y. et al. Elucidation of relationship between tumor size and survival in non-small-cell lung cancer patients can aid early decision making in clinical drug development. Clin Pharmacol Ther. 86, 167--174 (2009).

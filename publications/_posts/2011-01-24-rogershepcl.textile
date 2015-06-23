@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Quantifying Uncertainty in Predictions of Hepatic Clearance"
+authors: Rogers JA, Wilbur J, Cole S, Bernhardt PW, Bupp JL, Lennon MJ, Langholz N, Steiner CP
+place: "Statistics in Biopharmaceutical Research"
+pubdate: January 24, 2011
+volume: 3
+number: 4
+pages: 515-525
+link: http://doi.org/10.1198/sbr.2011.09019
+areas: other
+---
+Rogers JA, Wilbur J, Cole S, Bernhardt PW, Bupp JL, Lennon MJ, Langholz N, Steiner CP. Quantifying Uncertainty in Predictions of Hepatic Clearance. Statistics in Biopharmaceutical Research. 2011;3(4):515-525.

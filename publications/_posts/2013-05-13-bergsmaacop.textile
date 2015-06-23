@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'A Cloud-Based Cluster Computing Platform for Pharmacometric Applications'
+authors: Timothy Bergsma, William Knebel, Daniel Polhamus, Jeffrey T. Hane, Marc R. Gastonguay 
+place: "ACoP 2013"
+pubdate: May 13, 2013
+volume: 
+number: 
+pages: 
+link: /assets/pubs/MetrumAcop2013_cloud_computing.pdf
+areas: methodology
+---
+Timothy Bergsma, William Knebel, Daniel Polhamus, Jeffrey T. Hane, Marc R. Gastonguay. A Cloud-Based Cluster Computing Platform for Pharmacometric Applications. ACoP 2013.

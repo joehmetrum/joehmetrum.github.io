@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Exposure-response modeling and clinical trial simulation of the effect of tolterodine on QT intervals in healthy volunteers'
+authors: Sweeney KR, Gastonguay MR, Benincosa L, Cronenberger CL, Glue P, Malhotra BK
+place: "Drug Discov Ther"
+pubdate: February 2010
+volume: 4
+number: 1
+pages: 44-53
+link: http://www.ddtjournal.com/getabstract.php?id=289
+areas: other
+---
+Sweeney KR, Gastonguay MR, Benincosa L, Cronenberger CL, Glue P, Malhotra BK . Exposure-response modeling and clinical trial simulation of the effect of tolterodine on QT intervals in healthy volunteers. Drug Discov Ther. 2010 ;4(1):44-53.

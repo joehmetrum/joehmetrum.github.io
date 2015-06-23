@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Defining the future of pharmacometrics: the American Society of Pharmacometrics"
+authors: Pfister M, Brundage RC, Gastonguay MR, Miller R, Tannenbaum SJ, D'Argenio DZ
+place: "J Clin Pharmacol"
+pubdate: September 2010
+volume: 50
+number: 9 Suppl
+pages: 158S
+link: http://dx.doi.org/10.1177/0091270010377632
+areas: other
+---
+Pfister M, Brundage RC, Gastonguay MR, Miller R, Tannenbaum SJ, D'Argenio DZ. Defining the future of pharmacometrics: the American Society of Pharmacometrics. J Clin Pharmacol. 2010 Sep;50(9 Suppl):158S.

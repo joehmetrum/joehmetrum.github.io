@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'R/NONMEM Toolbox for Simulation from Posterior Parameter (Uncertainty) Distributions'
+authors: Gibiansky L and MR Gastonguay
+place: "PAGE 2006"
+pubdate: June 2006
+volume: 
+number: 
+pages: Abstract 958 
+link: /assets/pubs/page_2006_toolbox.pdf
+areas: methodology
+---
+Gibiansky L and MR Gastonguay. R/NONMEM Toolbox for Simulation from Posterior Parameter (Uncertainty) Distributions. L. Gibiansky and M.R. Gastonguay. PAGE 2006 (2006) Abstract 958. 

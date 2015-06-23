@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Population Pharmacokinetics and Exposure-Response of Albinterferon Alfa-2b"
+authors: M. M. Riggs, T. T. Bergsma, J. A. Rogers, M. R. Gastonguay, G. M. Subramanian, C. Chen, M. Devalaraja, A. E. Corey, H. Sun, J. Yu, and D. S. Stein
+place: "J Clin Pharmacol"
+pubdate: April 2012
+volume: 52
+number: 4
+pages: 475–86
+link: http://dx.doi.org/10.1177/0091270011399576
+areas: other
+---
+M. M. Riggs, T. T. Bergsma, J. A. Rogers, M. R. Gastonguay, G. M. Subramanian, C. Chen, M. Devalaraja, A. E. Corey, H. Sun, J. Yu, and D. S. Stein. Population pharmacokinetics and exposure-response of albinterferon alfa-2b. J Clin Pharmacol, 52(4):475–86, Apr 2012.

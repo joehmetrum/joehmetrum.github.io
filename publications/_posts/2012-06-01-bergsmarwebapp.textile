@@ -1,0 +1,13 @@
+---
+layout: pubpost
+category: publications
+title: "Sumo: An Authenticating Web Application with an Embedded R Session"
+authors: Timothy T Bergsma and Michael S. Smith
+place: "The R Journal"
+pubdate: June 2012
+volume: 4
+number: 1
+link: http://journal.r-project.org/archive/2012-1/RJournal_2012-1_Bergsma+Smith.pdf
+areas: methodology
+---
+Timothy T Bergsma and Michael S. Smith. Sumo: An Authenticating Web Application with an Embedded R Session. The R Journal. 2012 June; Vol. 4/1.

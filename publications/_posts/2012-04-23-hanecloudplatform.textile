@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Building a Scalable Pharmacometrics Platform in the Cloud'
+authors: Jeffrey Hane, Adam Kraut
+place: "Presented at BioIT World Conference and Expo, Boston, MA"
+pubdate: April 23-25, 2012
+volume: 
+number: 
+pages: 
+link: http://www.bio-itworldexpo.com/Cloud-Computing-Boston/12
+areas: methodology
+---
+Jeffrey Hane, Adam Kraut. Building a Scalable Pharmacometrics Platform in the Cloud. Presented at BioIT World Conference and Expo, Boston, MA (April 23-25, 2012)

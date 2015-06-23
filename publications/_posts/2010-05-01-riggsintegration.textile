@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Multiscale Modeling: The Quantitative Integration of Systems Biology, Clinical Pharmacology and Translational Research'
+authors: Riggs MM
+place: "Presented at American Association of Pharmaceutical Scientists National Biotechnology Conference, Update on Quantitative Systems and Disease Models for Biologics Mini–Symposium. San Francisco, CA"
+pubdate: May 2010
+volume: 
+number: 
+pages: 
+link: none
+areas: methodology
+---
+Riggs MM. Multiscale Modeling: The Quantitative Integration of Systems Biology, Clinical Pharmacology and Translational Research. Presented at American Association of Pharmaceutical Scientists National Biotechnology Conference, Update on Quantitative Systems and Disease Models for Biologics. Mini–Symposium. San Francisco, CA; May 2010.

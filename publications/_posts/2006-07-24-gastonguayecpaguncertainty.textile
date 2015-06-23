@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Acknowledging and Incorporating Uncertainty in Model-Based Inferences'
+authors: Gastonguay MR, Gibiansky L
+place: "ECPAG Conference, Workshop Poster Session"
+pubdate: July 2006
+volume: 
+number: 
+pages: 
+link: /assets/pubs/ecpag_2006_uncertainty.pdf
+areas: methodology
+---
+Gastonguay MR, Gibiansky L. Acknowledging and Incorporating Uncertainty in Model-Based Inferences. ECPAG Conference (2006) Workshop Poster Session, Abstract.

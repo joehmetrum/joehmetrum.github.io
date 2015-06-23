@@ -1,0 +1,9 @@
+---
+layout: teampost
+title: Senior Scientist
+name: Nathanael L. Dirks, Pharm.D., Ph.D.
+given: Nate
+surname: Dirks
+category: team
+---
+Nathanael joined Metrum in March 2010 after receiving his Pharm.D. and Ph.D. (Pharmaceutical Sciences) from the University of Tennessee Health Science Center.  His dissertion topic was population PK-PD modeling of therapeutic monoclonal antibodies with an application of Bayesian and maximum likelihood estimation methods.  In recent years, he has worked on modeling and simulation projects for both small molecule and biologic therapeutics in areas of pediatric pharmacology, pain management, hypertension, asthma, Crohn's disease, and ulcerative colitis. His interests also include teaching and developing training material related to basic PK-PD concepts and prinicples of modeling and simulation.

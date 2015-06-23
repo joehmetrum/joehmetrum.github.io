@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Establishing A Priori Identifiability of Target Mediated Drug Disposition Models'
+authors: Rena J. Eudy and Marc R. Gastonguay
+place: "ACoP5"
+pubdate: October 2014
+volume: 
+number: 
+pages: 
+link: /assets/pubs/a_priori_poster.pdf
+areas: methodology
+---
+Rena J. Eudy and Marc. R. Gastonguay. Establishing A Priori Identifiability of Target Mediated Drug Disposition Models. ACoP5. October 2014.

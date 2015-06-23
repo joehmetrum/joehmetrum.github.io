@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'A Systems Biology Model to Describe Long-Term Bone Remodeling Effects of Estrogen in Menopausal and Postmenopausal Women'
+authors: Riggs MM, Peterson MC, Gastonguay MR
+place: ""
+pubdate: sometime 2009
+volume: 
+number: 
+pages: 
+link: /assets/pubs/ASCPT2009poster_PIII-81.pdf
+areas: bone
+---
+Riggs MM, Peterson MC, Gastonguay MR. A Systems Biology Model to Describe Long-Term Bone Remodeling Effects of Estrogen in Menopausal and Postmenopausal Women.

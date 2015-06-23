@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Population Pharmacokinetic-Pharmacodynamic Modeling of Istradefylline in Patients With Parkinson's Disease"
+authors: Knebel W, Rao N, Bergsma T, Gastonguay M, Mori A, Uchimura T, Allenby K, Dvorchik B, Sussman N, Chaikin P
+place: "ACCP 2007, Denver, CO"
+pubdate: October 14-17, 2007
+volume: 
+number: 
+pages: 
+link: /assets/pubs/KYU-07-0290%20PKPD%20Pstr%208.31.pdf
+areas: neurodegenerative
+---
+Knebel W, Rao N, Bergsma T, Gastonguay M, Mori A, Uchimura T, Allenby K, Dvorchik B, Sussman N, Chaikin P. Population Pharmacokinetic-Pharmacodynamic Modeling of Istradefylline in Patients With Parkinson's Disease. ACCP 2007.

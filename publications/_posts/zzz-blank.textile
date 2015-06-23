@@ -1,0 +1,13 @@
+---
+layout: pubpost
+category: publications
+title: ""
+authors: 
+place: ""
+pubdate: 
+volume: 
+number: 
+pages: 
+link: 
+areas: 
+---

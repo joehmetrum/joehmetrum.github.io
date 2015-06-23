@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Can methods based on existing models really aid decision making in non-small cell lung cancer (NSCLC) trials?'
+authors: Jonathan French
+place: "PAGE 22"
+pubdate: June 2013
+volume: 
+number: ABSTRACT A-06
+pages: 
+link: http://www.page-meeting.org/?abstract=2925
+areas: oncology
+---
+Jonathan French. Can methods based on existing models really aid decision making in non-small cell lung cancer (NSCLC) trials? PAGE 22. Glasgow, Scotland. June 12, 2013. Abstr A-06.

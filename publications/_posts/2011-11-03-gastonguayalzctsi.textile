@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Application of Modeling and Simulation to Support Clinical Drug Development Decisions in Alzheimer's Disease"
+authors: Gastonguay MR
+place: ""
+pubdate: November 2011
+volume:
+number:
+pages:
+link: /assets/pubs/MGastonguayDecisionMakingADIUCTSI.pdf
+areas: neurodegenerative
+---
+Gastonguay MR. Application of Modeling and Simulation to Support Clinical Drug Development Decisions in Alzheimer's Disease. 2011.

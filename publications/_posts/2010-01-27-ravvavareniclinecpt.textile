@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Quantitative Assessment of Exposure–Response Relationships for the Efficacy and Tolerability of Varenicline for Smoking Cessation'
+authors: JP Ravva, M.R.Gastonguay, J.L. French, T G Tensfeldt, and H M Faessel
+place: "Clinical Pharmacology and Therapeutics"
+pubdate: January 27, 2010
+volume: 87
+number: 3
+pages: 336-344
+link: http://www.nature.com/clpt/journal/v87/n3/abs/clpt2009282a.html
+areas: other
+---
+JP Ravva, M.R.Gastonguay, J.L. French, T G Tensfeldt, and H M Faessel. Quantitative Assessment of Exposure–Response Relationships for the Efficacy and Tolerability of Varenicline for Smoking Cessation. Clinical Pharmacology & Therapeutics (2010) 87 3, 336–344.

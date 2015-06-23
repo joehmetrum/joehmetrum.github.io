@@ -1,0 +1,16 @@
+---
+layout: careerpost
+title: Pharmacometrics Bootcamp 2015–2016
+category: careers
+location: Tariffville, CT or Wellesley, MA
+col: 3
+---
+h4. The Pharmacometrics Bootcamp position is open for 2015–2016. Apply now!
+
+_The Metrum Research Group Pharmacometrics Bootcamp is an intensive, one-year training opportunity aimed at individuals with a background in quantitative sciences seeking to build on current skills and develop a high-level, focused expertise in pharmacometrics. Learn from leading experts in the field, within a customized curriculum suited to your incoming skills and abilities. Extend your knowledge of tools, skills, and strategies using our advanced pharmacometrics workflow in a cloud-computing infrastructure on real-world problems. Compensation will be consistent with NIH post-doctoral fellowship guidelines. Quarterly evaluations will guide your growth. Permanent employment is possible with successful completion of training._
+ 
+_Metrum Research Group, established in 2004, is a global leader in biomedical modeling and simulation. We have provided strategic decision making for more than 100 companies on over 250 projects. At Metrum Research Group we support our clients in advancing drug development programs by supplying them with the highest quality scientific expertise. Please send resume and a brief cover letter in the body of an email. We prefer to hear directly from candidates. No recruiters please._
+
+<!--<div class="row-fluid" style="margin:35px 0 20px 0"><div class="span12" style="text-align:center"><a class="btn btn-large btn-fp"href="mailto:employment@metrumrg.com?Subject=Pharmacometrics%20Bootcamp">_Apply Now_</a> </div></div>-->
+
+_Metrum Research Group is an equal opportunity employer._

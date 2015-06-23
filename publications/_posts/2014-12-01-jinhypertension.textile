@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Predicted impact of various clinical practice strategies on cardiovascular risk for the treatment of hypertension: a clinical trial simulation study.'
+authors: Jin Y, Bies R, Gastonguay MR, Wang Y, Stockbridge N, Gobburu J, Madabushi R
+place: "Pharmacokinet Pharmacodyn"
+pubdate: December 2014
+volume: 41
+number: 6
+pages: 693-704
+link: https://dx.doi.org/10.1007/s10928-014-9394-9
+areas: cardiovascular
+---
+Jin Y, Bies R, Gastonguay MR, Wang Y, Stockbridge N, Gobburu J, Madabushi R. Predicted impact of various clinical practice strategies on cardiovascular risk for the treatment of hypertension: a clinical trial simulation study. J Pharmacokinet Pharmacodyn. 2014 Dec;41(6):693-704.

@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Combining Summary-level and Patient-level Data for Longitudinal Dose-Response Models: Why and How'
+authors: Rogers JA
+place: "Presented at ACOP 2011, San Diego, CA"
+pubdate: April 3-6, 2011
+volume:
+number:
+pages:
+link: /assets/pubs/acop_2011_mbma.pdf
+areas: methodology
+---
+Rogers JA. Combining Summary-level and Patient-level Data for Longitudinal Dose-Response Models: Why and How. Presented at ACOP 2011, San Diego, CA.

@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Extensions of a Multiscale Systems Pharmacology Model of Bone Mineral Balance and its Regulation of Bone Health'
+authors: Riggs MM 
+place: "Presented at Sunrise Session INTEGRATION OF SYSTEMS MODELING IN CLINICAL DEVELOPMENT: SUCCESSES, CHALLENGES, AND FUTURE OUTLOOK of The American Society of Clinical Pharmacology and Therapeutics Annual Meeting, Indianapolis, Indiana"
+pubdate: March 7, 2013
+volume: 
+number: 
+pages: 
+link: /assets/pubs/riggs-ascpt-2013-2.pdf
+areas: bone
+---
+Riggs MM. Extensions of a Multiscale Systems Pharmacology Model of Bone Mineral Balance and its Regulation of Bone Health. Presented at Sunrise Session INTEGRATION OF SYSTEMS MODELING IN CLINICAL DEVELOPMENT: SUCCESSES, CHALLENGES, AND FUTURE OUTLOOK of The American Society of Clinical Pharmacology and Therapeutics Annual Meeting, Indianapolis, Indiana; March 7, 2013

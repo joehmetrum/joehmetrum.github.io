@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Utilizing NONMEM 7 and the Intel Fortran Compiler in a Distributed Computing Environment'
+authors: Knebel W, Bergsma TT, Dagdigian C, Hane J, Gastonguay MR
+place: "Presented at PAGE 2010"
+pubdate: June 8-11, 2010
+volume: 
+number: 
+pages: 
+link: /assets/pubs/page_2010_nm7ifc.pdf
+areas: methodology
+---
+Knebel W, Bergsma TT, Dagdigian C, Hane J, Gastonguay MR. Utilizing NONMEM 7 and the Intel Fortran Compiler in a Distributed Computing Environment. PAGE 2010.

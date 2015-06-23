@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "ACoP: the tools, carpenters, and architects building the discipline of pharmacometrics"
+authors: Brundage RC, Pfister M, D'Argenio DZ, Gastonguay MR, Miller R, Tannenbaum SJ.
+place: "J Clin Pharmacol"
+pubdate: September 2010
+volume: 50
+number: 9 Suppl
+pages: 7S-8S
+link: http://dx.doi.org/10.1177/0091270010376967
+areas: methodology
+---
+Brundage RC, Pfister M, D'Argenio DZ, Gastonguay MR, Miller R, Tannenbaum SJ. ACoP: the tools, carpenters, and architects building the discipline of pharmacometrics. J Clin Pharmacol. 2010 Sep;50(9 Suppl):7S-8S.

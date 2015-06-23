@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Use of Rpad, an Open-Source, Interactive, Web-Based Analysis Program, for Visualization During Model-Based Drug Development of Adipiplon, a GABAA Receptor Partial Agonist Under Investigation for the Treatment of Insomnia'
+authors: Riggs MM, Bergsma TT, Gillespie WR, Gastonguay MR, Sprenger KJ
+place: "American Conference on Pharmacometrics"
+pubdate: March 9-12, 2008
+volume: 
+number: 
+pages: 
+link: /assets/pubs/acop_2008_rpad.pdf
+areas: methodology
+---
+Riggs MM, Bergsma TT, Gillespie WR, Gastonguay MR, Sprenger KJ. Use of Rpad, an Open-Source, Interactive, Web-Based Analysis Program, for Visualization During Model-Based Drug Development of Adipiplon, a GABAA Receptor Partial Agonist Under Investigation for the Treatment of Insomnia. American Conference on Pharmacometrics, 2008.

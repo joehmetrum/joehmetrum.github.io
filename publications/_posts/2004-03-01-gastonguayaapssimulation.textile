@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'The Importance of the Simulation Expectation as a Goodness of Fit Diagnostic for Categorical Population Pharmacodynamic Models'
+authors: Gastonguay MR and Hane JT
+place: "The AAPS Journal"
+pubdate: March 2004
+volume: 6
+number: S1
+pages: Abstract W4355
+link: /assets/pubs/aaps_2004_simexpectation.pdf
+areas: methodology
+---
+Gastonguay MR and Hane JT. The Importance of the Simulation Expectation as a Goodness of Fit Diagnostic for Categorical Population Pharmacodynamic Models. The AAPS Journal; 6(S1), Abstract W4355, 2004.

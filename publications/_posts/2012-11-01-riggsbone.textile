@@ -1,0 +1,11 @@
+---
+layout: pubpost
+category: publications
+title: Predicting Nonlinear Changes in Bone Mineral Density Over Time Using a Multiscale Systems Pharmacology Model
+authors: Peterson, MC and Riggs, MM
+place: "CPT: pharmacomet. syst. pharmacol"
+pubdate: November 2012
+link: http://www.nature.com/psp/journal/v1/n11/full/psp201215a.html
+areas: bone
+---
+Peterson, MC and Riggs, MM. Predicting Nonlinear Changes in Bone Mineral Density Over Time Using a Multiscale Systems Pharmacology Model. CPT: pharmacomet. syst. pharmacol. 2012 Nov online;1(e14).

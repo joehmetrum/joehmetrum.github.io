@@ -1,0 +1,9 @@
+---
+layout: teampost
+title: Principal Scientist II, Group Leader
+name: James A. Rogers, Ph.D.
+given: Jim
+surname: Rogers
+category: team
+---
+Jim is an experienced applied statistician with a commitment to the advancement of biomedical science through innovative application of statistical concepts and statistical methodology. He has broad experience in the biomedical industry, including applications in genomics, biomarker discovery and development, preclinical-to-clinical translational modeling, and clinical trial design.

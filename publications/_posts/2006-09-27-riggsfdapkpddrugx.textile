@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Exposure-response (PK-PD) applied to model-based drug development: A case study of Drug X'
+authors: Riggs M
+place: "FDA/Industry Statistics Workshop"
+pubdate: September 2006
+volume: 
+number: 
+pages: 
+link: /assets/pubs/fda_2006_wrkshop.pdf
+areas: methodology
+---
+Riggs M. Exposure-response (PK-PD) applied to model-based drug development: A case study of Drug X. FDA/Industry Statistics Workshop (2006) Parallel Session 14: Case Studies in Modeling and Simulation, Abstract.

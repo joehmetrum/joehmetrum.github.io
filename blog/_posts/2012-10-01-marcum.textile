@@ -1,0 +1,13 @@
+---
+layout: blogpost
+title: Marcum Tech Top 40
+author: Mary Delaney
+category: blog
+---
+Metrum Research Group was selected as one of the fastest growing technology companies in Connecticut at the 2012 Marcum Tech Top 40 awards ceremony at the Oakdale Theatre in Wallingford on September 27th. 
+
+Out of the six categories including: Advanced Manufacturing, Energy/Environment/Green Technology, IT Services, Life Sciences, New Media/Internet/Telecom, and Software, Metrum Research Group was recognized in the field of Life Sciences.
+
+At Metrum Research Group we are all very excited and honored to be included in the Marcum Tech Top 40 and congratulate the other recognized companies.
+
+To learn more about the Marcum Tech Top 40 please click <a href="http://www.ct.org/tech_top_40.asp" target="_blank">here</a>. 

@@ -1,0 +1,9 @@
+---
+layout: teampost
+title: Principal Scientist II, Director of Innovation
+name: Jonathan French, Sc.D.
+given: Jonathan
+surname: French
+category: team
+---
+Jonathan has over 10 years of drug development experience. He began his career as a project statistician; designing, analyzing and interpreting clinical trials in depression and ADHD. His primary areas of expertise range from model-based meta-analysis and applied Bayesian methods to modeling time-to-event data and missing data mechanisms.

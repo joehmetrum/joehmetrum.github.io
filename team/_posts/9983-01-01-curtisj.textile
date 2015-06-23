@@ -1,0 +1,9 @@
+---
+layout: teampost
+title: Research Scientist
+name: Curtis K. Johnston, Pharm.D.
+given: Curtis
+surname: Johnston
+category: team
+---
+Curtis joined Metrum in 2014 after receiving his Pharm.D. from the University at Buffalo and completing a clinical PK/PD Fellowship through UNC Chapel Hill/Quintiles. His clinical experience includes infectious disease (bacterial), oncology, and chronic liver disease (HCV and NASH). Curtis’s research interests include Bayesian methodology and the application of M&S to help inform drug development decisions.

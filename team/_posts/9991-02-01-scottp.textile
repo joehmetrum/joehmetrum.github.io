@@ -1,0 +1,9 @@
+---
+layout: teampost
+title: Senior Scientist II, Group Leader
+name: Scott Pivirotto
+given: Scott
+surname: Pivirotto
+category: team
+---
+Scott comes to Metrum with over 15 years of experience within the pharmaceutical industry. Having worked in database development, data management, and programming support for modeling and simulation analyses and global safety reporting, he has supported all phases of drug development across multiple therapeutic areas. He is keenly interested in data base design, data aggregation, and data scrubbing as they pertain to data mining and analysis needs. 

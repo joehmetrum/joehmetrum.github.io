@@ -1,0 +1,9 @@
+---
+layout: teampost
+title: Principal Scientist II, Group Leader
+name: William Knebel, Pharm.D., Ph.D.
+given: Bill 
+surname: Knebel
+category: team
+---
+Bill comes to MetrumRG with 14+ years of applying mathematical modeling and simulation techniques across academic and industrial settings to optimize drug development. Bill’s current interests include the application of a high-performance cloud computing environments to facilitate problem solving in drug development. 

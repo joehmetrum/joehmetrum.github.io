@@ -1,0 +1,9 @@
+---
+layout: teampost
+title: Senior Scientist, Statistics
+name: Daniel G. Polhamus, Ph.D
+given: Dan
+surname: Polhamus
+category: team
+---
+Dan joined Metrum in September, 2010 and is an applied statistician with an emphasis on Bayesian biostatistics, clinical trial design, and high performance statistical computing. His dissertation topic was adaptive design for heterogeneous time-to-event data in a Bayesian decision theory framework.

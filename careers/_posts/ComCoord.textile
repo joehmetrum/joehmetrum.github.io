@@ -1,0 +1,30 @@
+---
+layout: careerpost
+title: Communications Coordinator
+category: careers
+location: Tariffville, CT or Wellesley, MA
+col: 4
+---
+The Communications Coordinator will manage all aspects of customer-facing media and communications. This is a full-time salaried position, located at the Metrum Research Group Tariffville, CT or Metro-Boston (Wellesley, MA) offices. Key responsibilities include:
+
+* Interface with customers on new projects, from lead development through work scope/contract execution
+* Receive, review, and delegate incoming requests for proposals
+* Lead the project proposal process across all programs, with assistance from team scientists and resource management
+* Conduct post-project reviews with team scientists and customers
+* Manage social media and web presence for the company, as part of the overall marketing strategy
+* Implement and contribute to the development of marketing strategies with company leadership
+* Organize the company publication strategy and provide administrative support for preparation and submission of manuscripts, abstracts, and conference presentations
+* Organize and participate in external events (will include some travel), such as trade shows, conferences, symposia, training sessions/workshops
+* Organize and manage company affiliations and interactions with professional and trade organizations at the local, national, and international levels
+* Manage customer contacts and project databases
+
+Excellent written and verbal communication skills and attention to detail are essential for this position. Solid experience and competency with social media, web, and end-user computer technologies are required. Experience with HTML/CSS is a plus. An education and/or prior experience in a field related to biomedical research and development would be ideal.
+
+Metrum Research Group, established in 2004, is a global leader in biomedical modeling and simulation services, tools, and products. Our work and our company culture are characterized by quality cutting-edge science, knowledge sharing, strong service-centered collaboration, teamwork, and a healthy career/life balance.
+
+Please send resume and a brief cover letter in the body of an email. We prefer to hear directly from candidates. No recruiters please. Metrum Research Group is an equal opportunity employer.
+
+<div style="padding:10px 0px 30px 0px;text-align:center"><a class="btn btn-success"href="mailto:employment@metrumrg.com?Subject=Communications%20Coordinator%20Position">Apply Now</a> </div>
+
+
+

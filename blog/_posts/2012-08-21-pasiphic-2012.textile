@@ -1,0 +1,21 @@
+---
+layout: blogpost
+title: PaSiPhIC Conference
+author: Jonathan French
+category: blog
+---
+
+ Recently, I was asked to speak at this year’s PaSiPhIC conference about different approaches to meta-analysis.  As I was putting together my presentation, I began to wonder:  How can we best leverage traditional meta-analysis methods in a model-based drug development framework?
+
+Model-based meta-analysis is growing in use and for good reason.  It allows us to use data in the public domain (e.g., extracted from journal articles, conference abstracts and posters) to quantitatively describe dose-response and disease progression, facilitating more efficient clinical study designs, drug development programs, and cost effectiveness comparisons.
+
+ <div style="margin:0 auto; text-align:center;">
+<a  href="/ctas/pasiphic-2012.html" class="btn btn-large btn-success">Download Metrum Research Group's Presentation</a>
+</div>
+ 
+However, there is a rich history of meta-analysis methods and applications in the statistics literature, and it seems that we in the pharmacometrics community should be taking better advantage of them.
+
+
+Models ranging from a simple pairwise random effects meta-analysis to multi-arm network meta-regression models and multivariate meta-analysis models have been used extensively in the comparative effectiveness and outcomes research literature.  These models can be fit easily using common statistical software packages.  More importantly, unlike MBMA models, they have well-understood assumptions. 
+
+While they certainly don’t answer all of the drug development questions we can address with MBMA, I think there’s an important role for traditional meta-analysis models in the MBDD world.  Arguably, these models can allow modelers to answer the simple, direct questions of interest quickly and easily (and with fewer assumptions than MBMA).  This then allows modelers to spend the time they need to build more sophisticated MBMA models to address the more complex and wide-ranging issues.

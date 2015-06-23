@@ -1,0 +1,13 @@
+---
+layout: teampost
+title: Senior Scientist, Statistics
+name: Jayson D. Wilbur, Ph.D.
+given: Jayson
+surname: Wilbur
+category: team
+---
+Jayson is an experienced statistician who joined Metrum in 2014 after
+working for several years on problems in diagnostic medicine and
+public health in both industrial and academic settings. His primary
+areas of statistical expertise are multivariate analysis, Bayesian
+modeling and methods for evaluation of diagnostic tests.

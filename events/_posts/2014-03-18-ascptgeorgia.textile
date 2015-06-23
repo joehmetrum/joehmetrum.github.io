@@ -1,0 +1,6 @@
+---
+layout: eventspost
+title: ASCPT Annual Meeting, Atlanta, GA
+category: events
+---
+MetrumRG scientists attending ASCPT Annual Meeting, Atlanta, GA. March 18-22

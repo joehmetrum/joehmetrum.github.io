@@ -1,0 +1,52 @@
+--------- These keywords go by "areas" in each post frontmatter; must be typed exactly ----------
+
+bone
+
+cardiovascular
+
+infectious
+
+methodology
+
+neurodegenerative
+
+oncology
+
+other
+
+peds
+
+rare
+
+
+--------- Headings and the sorts of stuff that fits under each ---------
+
+Bone Health
+osteo
+
+Cardiovascular and Metabolic Disorders
+cardiovascular
+diabetes
+
+Infectious Disease
+hiv
+hcv 
+
+Methodology, Tools, and Computation
+
+Neurodegenerative Diseases
+alzheimer
+parkinson
+
+Oncology
+
+Rare Disorders:
+cystic fibrosis
+
+Other
+obstetrics
+addiction
+gastro
+hepatic
+kidney
+

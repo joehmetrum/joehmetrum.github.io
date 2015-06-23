@@ -1,0 +1,8 @@
+---
+layout: blogpost
+title: Metrum Research Group Presents at Bio-IT World 2012
+author: Jeffrey Hane
+category: blog
+---
+
+Jeff Hane of MetrumRG and Adam Kraut of The BioTeam presented details of MetrumRG's ground-breaking infrastructure in the cloud at Bio-IT World 2012 (Boston, MA). The talk, 'Building A Scalable Pharmacometrics Platform in the Cloud', was delivered in the Cloud Computing Track on April 25. Grab your copy of the slide deck today.

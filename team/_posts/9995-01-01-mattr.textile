@@ -1,0 +1,9 @@
+---
+layout: teampost
+title: Principal Scientist II, Group Leader
+name: Matthew M. Riggs, Ph.D. 
+given: Matt
+surname: Riggs
+category: team
+---
+Matt offers 12 years of industry experience including the application of modeling and simulation for clinical pharmacology and later phase drug development decisions. Matt's interests include the development and application of mechanistic exposure-response and systems pharmacology models to quantitatively integrate physiology, pharmacology, senescence and disease understandings; this to guide translational and clinical research toward improved preventative and interventional therapeutics.

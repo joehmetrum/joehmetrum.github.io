@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Mathematical Modeling of Systemic and Hepatic Disposition of Morphine and Morphine Glucuronides in Nonalcoholic Steatohepatitis to Inform Study Design"
+authors: C.K. Johnston, B.C. Ferslew, A.S. Barritt, K.L. Brouwer
+place: "Presented at the American Association of Pharmaceutical Scientists Annual Meeting, San Antonio, TX"
+pubdate: November 2013
+volume: 
+number: 
+pages: 
+link: none
+areas: other
+---
+C.K. Johnston, B.C. Ferslew, A.S. Barritt, K.L. Brouwer. Mathematical Modeling of Systemic and Hepatic Disposition of Morphine and Morphine Glucuronides in Nonalcoholic Steatohepatitis to Inform Study Design. Presented at the American Association of Pharmaceutical Scientists Annual Meeting, San Antonio, TX, November 2013.

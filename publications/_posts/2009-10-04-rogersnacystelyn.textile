@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Clinical Trial Simulation to Compare Adaptive and Fixed Designs for a Phase 3 Clinical Trial of Nacystelyn® (L-Lysine-N-acetyl-L-cysteinate) for Cystic Fibrosis'
+authors: James A. Rogers, Matthew M. Riggs, Monte Cofﬁner, William R. Gillespie, Robert Burford, Francis Vanderbist, Sophie De Niet, Marc R. Gastonguay
+place: "ACOP 2009"
+pubdate: October 4-7, 2009
+volume: 
+number: 
+pages: 
+link: /assets/pubs/acop2009_nacystelyn.pdf
+areas: rare
+---
+James A. Rogers, Matthew M. Riggs, Monte Cofﬁner, William R. Gillespie, Robert Burford, Francis Vanderbist, Sophie De Niet, Marc R. Gastonguay. Clinical Trial Simulation to Compare Adaptive and Fixed Designs for a Phase 3 Clinical Trial of Nacystelyn® (L-Lysine-N-acetyl-L-cysteinate) for Cystic Fibrosis. ACOP 2009.

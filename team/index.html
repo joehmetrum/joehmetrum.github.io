@@ -1,0 +1,53 @@
+---
+layout: default
+title: Metrum Staff
+---
+			<div class="jumbotron jumbo-head">
+				<div class="container">
+					<h1>Meet the Team</h1>
+				</div>
+			</div>
+			
+<div class="container">
+	<div class="row">
+		<div class="col-sm-2 col-md-2">
+			<ul class="nav nav-pills nav-stacked bgc bordered">
+				<li><a href="/about.html">About Metrum</a></li>
+				<li class="active"><a href="#">The Team</a></li>
+				<li><a href="/careers/index.html">Careers</a></li>
+			</ul>
+		</div>
+		<div class="bgc bordered container-padding col-sm-10 col-md-10">
+		{% for post in site.categories.team limit:2 %}
+			<div class="row">
+				<div class="col-sm-12 col-md-12">
+					<a href="{{ post.url }}"><h2 class="greenhead">{{ post.name }}</h2></a>
+						<p><em>{{ post.title }}</em></p>
+					<p> {{ post.content }} </p>
+				</div>
+			</div>
+		<hr>
+		{% endfor %}
+		
+		{% for post in site.categories.team offset:2 %}
+			{% capture staffmod %}{{ forloop.index0 | modulo:2 }}{% endcapture %}
+			{% if staffmod == '0' or forloop.first %}
+				<div class="row" style="padding-bottom: 20px;">
+					<div class="col-sm-6 col-md-6">
+						<a href="{{ post.url }}"><strong>{{ post.name }}</strong></a>
+						<p><em>{{ post.title }}</em></p>
+						<p> {{ post.content }} </p>
+					</div>
+				
+			{% else %}
+				<div class="col-sm-6 col-md-6">
+						<a href="{{ post.url }}"><strong>{{ post.name }}</strong></a>
+						<p><em>{{ post.title }}</em></p>
+						<p> {{ post.content }} </p>
+					</div>
+				</div>
+			{% endif %}
+		{% endfor %}
+  </div>
+  </div>
+  </div>

@@ -1,0 +1,14 @@
+---
+layout: blogpost
+title: What Decisions Benefit from Model-Based Meta-Analysis (MBMA)?
+author: Jeffrey Hane
+category: blog
+---
+
+The primary rationale for model-based meta-analysis (MBMA) is to improve decision-making by better leveraging prior information from multiple sources. Decision-makers generally attempt to consider such prior information, but it is usually done in a relatively qualitative manner, and each individual decision-maker is usually aware of only a subset of the prior information. MBMA seeks to make the process more quantitative and comprehensive. The process and results of MBMA may be made visible (aka transparent) to the decision-makers. The end result is that the decision-makers are better informed, and they can contribute their knowledge to the modeling process leading to better, more trusted models and model-based inferences.
+
+You may ask: what decisions benefit from MBMA?
+
+Dose-selection and proof-of-concept decisions: Improved quantitative comparisons with competing treatments may permit better selection of a dosing regimen that performs comparable to or better than the competing treatment. Alternatively, the MBMA results may demonstrate that no dosing regimen of the new drug performs favorably relative to competitors. If so, MBMA may support a better and earlier decision to terminate development.
+
+Clinical trial design decisions: Models used for clinical trial simulation reflect a more comprehensive range of evidence and knowledge. MBMA is particularly valuable in cases where no clinical efficacy data is yet available for the new treatment, but quantitative predictions for efficacy-related measurements are possible by leveraging data for related compounds.

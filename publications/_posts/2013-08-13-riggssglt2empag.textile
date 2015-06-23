@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Population pharmacokinetics of empagliflozin, a sodium glucose cotransporter 2 inhibitor, in patients with type 2 diabetes'
+authors: 	Riggs MM, Staab A, Seman L, Macgregor TR, Bergsma TT, Gastonguay MR, Macha S.
+place: "J Clin Pharmacol"
+pubdate: 2013 Aug 13
+volume: 
+number: 
+pages: 
+link: http://dx.doi.org/10.1002/jcph.147
+areas: cardiovascular
+---
+Population pharmacokinetics of empagliflozin, a sodium glucose cotransporter 2 inhibitor, in patients with type 2 diabetes. Riggs MM, Staab A, Seman L, Macgregor TR, Bergsma TT, Gastonguay MR, Macha S. J Clin Pharmacol. 2013 Aug 13.

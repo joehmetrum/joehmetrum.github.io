@@ -1,0 +1,71 @@
+---
+layout: default
+---
+<div class="jumbotron jumbo-head">
+    <div class="container">
+        <h1>Meet the Team</h1>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-2 col-md-2">
+            <ul class="nav nav-pills nav-stacked bgc bordered">
+                <li><a href="/about.html">About Metrum</a></li>
+                <li class="active"><a href="/team/index.html">The Team</a></li>
+                <li><a href="/careers/index.html">Careers</a></li>
+            </ul>
+        </div>
+        <div class="bgc bordered container-padding col-sm-10 col-md-10">
+            <h2>{{page.name}}</h2>  
+            <h3>{{ page.title }}</h3>
+            <img src="{{ page.image }}">
+            <p>{{ content }}</p>
+                {% for post in site.categories.publications %}
+                    {% if post.authors contains page.surname or post.featured contains page.surname %}
+                        {% assign haspubs = true %}
+                    {% endif %}
+                {% endfor %}
+                {% if haspubs == true %}
+
+
+
+                            <a data-toggle="collapse" href="#collapsepubs">
+                                <h2 style="padding-top: 15px;" class="pubyear">{{ page.given }}'s Publications</h2>
+                            </a>
+                        
+                        <div id="collapsepubs" class="collapse">
+                                <ul class="pubslist list-unstyled">
+                                  {% assign teamcounter = 1 %}
+                                    {% for post in site.categories.publications %}
+                                        {% if page.surname == "Kang" %}
+                                            {% if post.authors contains page.surname and post.authors contains page.given or post.featured contains page.surname %}
+                                                {% assign tmod = teamcounter | modulo:2 %}
+                                              {% if tmod == 1 %}
+                                                  <li><a style="color:#444;" href="{{ post.url }}">{{ post.content }}</a>
+                                                  {% assign teamcounter = teamcounter | plus:1 %}
+                                                {% else %}
+                                                  <li style="background-color:#f3f3f3;"><a style="color:#444;" href="{{ post.url }}">{{ post.content }}</a></li>  
+                                                  {% assign teamcounter = teamcounter | plus:1 %}
+                                                {% endif %}
+                                            {% endif %} 
+                                            
+                                        {% else %}
+                                            {% if post.authors contains page.surname or post.featured contains page.surname %}
+                                                {% assign tmod = teamcounter | modulo:2 %}
+                                              {% if tmod == 1 %}
+                                                  <li><a style="color:#444;" href="{{ post.url }}">{{ post.content }}</a></li>
+                                                  {% assign teamcounter = teamcounter | plus:1 %}
+                                                {% else %}
+                                                  <li style="background-color:#f3f3f3;"><a style="color:#444;" href="{{ post.url }}">{{ post.content }}</a></li>  
+                                                  {% assign teamcounter = teamcounter | plus:1 %}
+                                                {% endif %}
+                                            {% endif %}
+                                        {% endif %} 
+                                    {% endfor %}
+                                </ul>
+                        </div>
+                    
+
+                {% endif %}
+        </div>
+    </div>

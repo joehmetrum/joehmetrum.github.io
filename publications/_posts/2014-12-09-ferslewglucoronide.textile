@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Altered Morphine-Glucuronide Disposition in Patients with Non-Alcoholic Steatohepatitis"
+authors: Ferslew BC, Johnston CK, Tsakalozou EF, Barritt AS and Brouwer KLR
+place: "Clinical Pharmacology and Therapeutics"
+pubdate: December 2014
+volume: 
+number: 
+pages: 
+link: http://onlinelibrary.wiley.com/doi/10.1002/cpt.66/abstract
+areas: other
+---
+Ferslew BC, Johnston CK, Tsakalozou EF, Barritt AS and Brouwer KLR. Altered Morphine-Glucuronide Disposition in Patients with Non-Alcoholic Steatohepatitis. [Accepted] Clinical Pharmacology and Therapeutics, December 2014.

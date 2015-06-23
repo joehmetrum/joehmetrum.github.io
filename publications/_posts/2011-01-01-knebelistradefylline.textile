@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Population pharmacokinetic analysis of istradefylline in healthy subjects and in patients with Parkinson's disease"
+authors: Knebel W, Rao N, Uchimura T, Mori A, Fisher J, Gastonguay MR, Chaikin P
+place: "J Clin Pharmacol"
+pubdate: January 2011
+volume: 51
+number: 1
+pages: 40-52
+link: http://doi.org/10.1177/0091270010363809
+areas: neurodegenerative
+---
+Knebel W, Rao N, Uchimura T, Mori A, Fisher J, Gastonguay MR, Chaikin P. Population pharmacokinetic analysis of istradefylline in healthy subjects and in patients with Parkinson's disease. J Clin Pharmacol. 2011 Jan;51(1):40-52.

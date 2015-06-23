@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Population Dose-Response Model for ADAS-cog Scores in Patients with Alzheimer's Disease by Meta-Analysis of a Mixture of Summary and Individual Data"
+authors: Gillespie B, Rogers JA, Ito K, Gastonguay MR
+place: ""
+pubdate: March 18-21, 2009
+volume: 
+number: 
+pages: 
+link: /assets/pubs/ADAScog03132009.pdf
+areas: neurodegenerative
+---
+Gillespie B, Rogers JA, Ito K, Gastonguay MR. Population Dose-Response Model for ADAS-cog Scores in Patients with Alzheimer's Disease by Meta-Analysis of a Mixture of Summary and Individual Data. ASCPT 110th Annual Meeting, March 18-21, 2009.

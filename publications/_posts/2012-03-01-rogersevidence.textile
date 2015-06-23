@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "The Value of Evidence Synthesis: Model-based Meta-analysis Based on the CAMD Database, the ADNI AD Cohort Data, and Literature Meta-data"
+authors: Rogers J, Polhamus D, Ito K, Qiu R, Gillespie B, Corrigan B
+place: "ASCPT"
+pubdate: March, 2012
+volume:
+number:
+pages:
+link: /assets/pubs/ascpt-ves.pdf
+areas: methodology
+---
+Rogers J, Polhamus D, Ito K, Qiu R, Gillespie B, Corrigan B. The Value of Evidence Synthesis: Model-based Meta-analysis Based on the CAMD Database, the ADNI AD Cohort Data, and Literature Meta-data. 2012.

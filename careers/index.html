@@ -1,0 +1,57 @@
+---
+layout: default
+title: Careers
+---
+			<div class="jumbotron jumbo-head">
+				<div class="container">
+					<h1>Careers</h1>
+				</div>
+			</div>
+			
+<div class="container">
+	<div class="row">
+		<div class="col-sm-2 col-md-2">
+			<ul class="nav nav-pills nav-stacked bgc bordered">
+				<li><a href="/about.html">About Metrum</a></li>
+				<li><a href="/team/index.html">The Team</a></li>
+				<li class="active"><a href="#">Careers</a></li>
+			</ul>
+		</div>
+		<div class="bgc bordered container-padding col-sm-10 col-md-10">
+		{% if site.categories.careers %}
+			<h3>Current Openings</h3>	
+			{% for post in site.categories.careers %}
+				{%if forloop.last %}
+					<div class="row">
+						<div class="col-sm-12 col-md-12">
+<a data-toggle="collapse" href="#collapse{{ post.col }}"><h4 class="greenhead">{{ post.title }} <span style="color:#333333;font-size:14px;">({{ post.location }})</span></h4></a>
+<div id="collapse{{ post.col }}" class="collapse">
+<!--<p><strong>{{ post.location }}</strong></p>-->
+<p> {{ post.content }} </p>
+</div>
+						</div>
+					</div>
+				{% else %}
+					<div class="row">
+						<div class="col-sm-12 col-md-12">
+<a data-toggle="collapse" href="#collapse{{ post.col }}"><h4 class="greenhead">{{ post.title }} <span style="color:#333333;font-size:14px;">({{ post.location }})</span></h4></a>
+<div id="collapse{{ post.col }}" class="collapse">
+<!--<p><strong>{{ post.location }}</strong></p>-->
+<p> {{ post.content }} </p>
+</div>
+						</div>
+					</div>
+					<!--<hr>-->
+				{% endif %}
+  		{% endfor %}
+  	{% else %}
+			<h3>Sorry, no openings :'(</h3>
+			<p>Check back another day.</p>
+  	{% endif %}
+  </div>
+  </div>
+
+<a data-toggle="collapse" href="#collapse{{ post.date }}{{ post.title }}"></a><h4 class="greenhead"><a data-toggle="collapse" href="#collapse{{ post.date }}{{ post.title }}"></a><a href="{{ post.url }}">{{ post.title }}</a></h4>
+<div id="collapse{{ post.date }}{{ post.title }}" class="collapse">
+<p> {{ post.content }} </p>
+</div>

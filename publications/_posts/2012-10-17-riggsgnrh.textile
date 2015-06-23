@@ -1,0 +1,11 @@
+---
+layout: pubpost
+category: publications
+title: "Integrated Pharmacometrics and Systems Pharmacology Model-Based Analyses to Guide GnRH Receptor Modulator Development for Management of Endometriosis"
+authors: M M Riggs, M Bennetts, P H van der Graaf, and S W Martin
+place: "CPT: Pharmacometrics & Systems Pharmacology"
+pubdate: Published online October 17, 2012
+link: http://dx.doi.org/10.1016/j.cmpb.2012.08.009
+areas: other
+---
+M M Riggs, M Bennetts, P H van der Graaf, and S W Martin. Integrated Pharmacometrics and Systems Pharmacology Model-Based Analyses to Guide GnRH Receptor Modulator Development for Management of Endometriosis. CPT: Pharmacometrics & Systems Pharmacology. Published online, 2012.

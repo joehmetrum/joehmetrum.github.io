@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Web-based Software for Real-time Simulation-assisted Trial Design in Alzheimer’s Disease"
+authors: Daniel G. Polhamus, Jia Kang, James A. Rogers, and Marc R. Gastonguay
+place: "CTAD 2014"
+pubdate: November 2014
+volume: 
+number: 
+pages: 
+link: /assets/pubs/ctad_poster.pdf
+areas: neurodegenerative
+---
+Daniel G. Polhamus, Jia Kang, James A. Rogers, and Marc R. Gastonguay. Web-based Software for Real-time Simulation-assisted Trial Design in Alzheimer’s Disease. CTAD 2014.

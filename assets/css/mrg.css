@@ -1,0 +1,563 @@
+body {
+	background-image: url(/assets/img/light_wool.png);
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+
+.greenhead {
+	font-size: 18px;
+	color:#00a000;
+	}
+
+h2.blackhead{
+	font-size: 20px;
+	color:#000000;
+	}
+
+h3.blackhead{
+	font-size: 16px;
+	color:#000000;
+	}
+
+p.glyphicon-size i:before{
+    font-size:400%;
+    position:relative;
+    padding-left: 0;
+}
+	
+p.iconcolor a i:before{
+	color:#19a219;
+}
+
+/*p.iconcolor a:hover i:before{
+	color:#787878;
+}*/
+
+.obfsc strong {
+	display:none;
+	}
+
+.fplead {
+  margin-bottom: 20px;
+  font-size: 24px;
+  font-weight: 200;
+  line-height: 1.4;
+  color:#19a219;
+}
+
+/*--------------------------- Custom Navbar ----------------------- */
+
+/*.navbar-custom {
+  background-color: #f8f8f8;
+  border-color: #e7e7e7;
+}*/
+
+.navbar-custom .navbar-brand {
+  color: #777777;
+}
+
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus {
+  color: #5e5e5e;
+  background-color: transparent;
+}
+
+.navbar-custom .navbar-text {
+  color: #777777;
+}
+
+.navbar-custom .navbar-nav > li > a {
+  color: #00a000;
+}
+
+.navbar-custom .navbar-nav > li > a:hover,
+.navbar-custom .navbar-nav > li > a:focus {
+  color: #333333;
+  background-color: transparent;
+}
+
+.navbar-custom .navbar-nav > .active > a,
+.navbar-custom .navbar-nav > .active > a:hover,
+.navbar-custom .navbar-nav > .active > a:focus {
+  color: #555555;
+  background-color: #e7e7e7;
+}
+
+.navbar-custom .navbar-nav > .disabled > a,
+.navbar-custom .navbar-nav > .disabled > a:hover,
+.navbar-custom .navbar-nav > .disabled > a:focus {
+  color: #cccccc;
+  background-color: transparent;
+}
+
+.navbar-custom .navbar-toggle {
+  border-color: #dddddd;
+  background-color: #fff;
+}
+
+.navbar-custom .navbar-toggle:hover,
+.navbar-custom .navbar-toggle:focus {
+  background-color: #dddddd;
+}
+
+.navbar-custom .navbar-toggle .icon-bar {
+  background-color: #cccccc;
+}
+
+.navbar-custom .navbar-collapse,
+.navbar-custom .navbar-form {
+  border-color: #e7e7e7;
+}
+
+.navbar-custom .navbar-nav > .open > a,
+.navbar-custom .navbar-nav > .open > a:hover,
+.navbar-custom .navbar-nav > .open > a:focus {
+  color: #555555;
+  background-color: #e7e7e7;
+}
+
+@media (max-width: 767px) {
+  .navbar-custom .navbar-nav .open .dropdown-menu > li > a {
+    color: #777777;
+  }
+  .navbar-custom .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-custom .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #333333;
+    background-color: transparent;
+  }
+  .navbar-custom .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-custom .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-custom .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #555555;
+    background-color: #e7e7e7;
+  }
+  .navbar-custom .navbar-nav .open .dropdown-menu > .disabled > a,
+  .navbar-custom .navbar-nav .open .dropdown-menu > .disabled > a:hover,
+  .navbar-custom .navbar-nav .open .dropdown-menu > .disabled > a:focus {
+    color: #cccccc;
+    background-color: transparent;
+  }
+}
+
+.navbar-custom .navbar-link {
+  color: #777777;
+}
+
+.navbar-custom .navbar-link:hover {
+  color: #333333;
+}
+
+	
+/*------------------- center top nav elements on fp ------------------- */
+/* fp top logo centering */
+.cent {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* fp top nav centering */
+.wrapper-cent {
+	text-align: center;
+}
+
+div.wrapper-cent ul{
+	display:inline-block;
+	margin:0;
+	padding:0;
+	}	
+
+
+	/* div that applies to both fp top logo and top nav */
+.masthead {
+	padding-bottom: 40px;
+	}
+
+.masthead .navbar .nav li a {
+    color: rgb(0, 160, 0);
+}
+
+/* ------------------- on about page - company info horiz list ------------------- */	
+ul.spread-list {
+	width:100%;
+}
+
+.facts ul.spread-list li {
+	width: 24%;
+	padding-left:0;
+	padding-right:0;
+	border:0;
+	margin:0;
+	}
+
+.facts i {
+	float:left;
+}
+
+.facts h4 {
+	font-size: 12px;
+	position:relative;
+	margin-top: 0;
+	margin-bottom:0;
+}
+
+.facts p {
+	position:relative;
+	font-size: 11px;
+}
+
+/* ------------------- bottom twitter, linkedin logos ------------------- */
+
+/*.social {
+	margin-left: 8px;
+	border-radius:4px;
+	}*/
+	
+div.footer ul.social li {
+		padding:0;
+}
+
+div.footer .gsc-control-cse {
+	background-color:transparent;
+	}
+
+.social a{
+	color:gray;
+}
+
+.twit a:hover{
+	color:#00aeed;
+	}
+	
+.linkedin a:hover{
+	color:#0574b4;
+	}
+	
+.twitter-icon {
+	background-image: url('/assets/img/twitter-bird-white-on-blue-bw.png');
+	background-repeat: no-repeat;
+	width:32px;
+	height:32px;
+	display:block;
+	border-radius: 4px;
+}
+
+.twitter-icon:hover {
+	background-image: url('/assets/img/twitter-bird-white-on-blue.png');
+	}
+
+.linkedin-icon {
+	background-image: url('/assets/img/linkedin-bw.png');
+	background-repeat: no-repeat;
+	width:32px;
+	height:32px;
+	display:block;
+	border-radius: 4px;
+}
+
+.linkedin-icon:hover {
+	background-image: url('/assets/img/linkedin.png');
+	}
+
+/* ------------------- Footer copyright stuff --------------------------*/
+
+hr.foot {
+	margin-bottom: 10px;
+    border-top: 1px solid #ddd;
+}
+
+.footer p {
+	padding-top:6px;
+	font-size: .85em;
+	}
+
+/* ------------------- bg color/border of many content divs ------------------- */
+
+.bgc {
+	background-color: white;
+	}
+	
+.bordered {
+	border: 1px solid #ddd;
+	border-radius: 10px;
+	}
+	
+/* ------------------- container to add inner padding ------------------- */
+.container-padding {
+	padding: 10px 20px;
+	}
+
+/* ------------------- pad the frontpage marketing 3 ------------------- */	
+.span-pad {
+	padding: 5px 10px;
+	}
+	
+/* ------------------- pubs page stuff ------------------- */
+.pubslist li {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	/*border-bottom: 1px dotted #ccc;*/
+	}
+
+h2.pubyear {
+	font-size: 24px;
+	line-height: .75;
+	}
+
+/* ---------------------- contact stuff ?------------*/
+
+.row div#contactform input {
+	/*width: 100%;*/
+	}
+
+div.formquestion{
+    margin-top:15px;
+}
+
+.row div#contactform textarea {
+	width: 100%;
+	height: 200px;
+	}
+	
+
+
+/*---------------blog index -----------------------*/
+div.bloghead {
+	padding-bottom:15px;
+	}
+
+div.blogentry h2{
+	font-weight: 400;
+	font-size: 1.7em;
+	line-height: 1.5em;
+	}
+	
+/*p.blogentry {
+	padding-bottom:20px;
+	}*/
+	
+div.blogdate {
+	width: 90px;
+	text-align: center;
+	margin-top:15px;
+	padding: 10px 0 4px 0;
+	background-color: #eee;
+	  -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
+	}
+	
+.blogdate p {
+	font-family: 'Lato', sans-serif;
+	font-size:14pt;
+	font-weight: 700;
+	line-height: 14px;
+	}
+
+.blogdate h4 {
+	font-family: 'Lato', sans-serif;
+	font-size:20pt;
+	font-weight: 400;
+	line-height: 18px;
+	}
+
+.blogside h2{
+	font-size:18pt;
+	}
+
+.blogside h3 {
+	font-size:16pt;
+	line-height:16pt;
+	}
+
+.homehead h4 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: normal;
+	}
+.btn-fp span {
+	font-family: 'Raleway', sans-serif;
+}
+
+/*----------- Events posts --------*/
+div.blogdate {
+    width: 110px;
+    text-align: center;
+    margin-top:15px;
+    padding: 10px 0 4px 0;
+    background-color: #eee;
+      -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
+    }
+    
+.blogdate p {
+    font-family: 'Lato', sans-serif;
+    font-size:14pt;
+    font-weight: 700;
+    line-height: 14px;
+    }
+
+.blogdate h4 {
+    font-family: 'Lato', sans-serif;
+    font-size:20pt;
+    font-weight: 400;
+    line-height: 18px;
+    }
+
+/*---------- open source tools --------*/
+h3.opensource{
+    margin-top:30px;
+}
+
+/* ------------------- Copied and modified from bootstrap template ------------------- */
+
+      /* ------------------- Custom container (currently unused) */
+      .container-narrow {
+        margin: 0 auto;
+        max-width: 700px;
+      }
+      .container-narrow > hr {
+        margin: 30px 0;
+      }
+
+      /* ------------------- Main marketing message and sign up button */
+      .jumbotron {
+        /*text-align: center;*/
+        /*customized bg color, etc. */
+        background-color:#f3f3f3;
+        border-top: 1px solid #ccc;
+        border-bottom: 1px solid #ccc;
+        }
+        
+			/* ------------------- padding for frontpage jumbotron */      
+      .jumbo-fp {
+      	text-align: center;
+        padding: 40px 0 50px 0;
+        margin-top:10px;
+      }
+      
+      .jumbo-fp h1 {
+        /* font-size: 78px;*/
+        line-height: 1;
+        /* customized font */
+        font-family: 'Raleway', sans-serif;
+        font-size: 44px;
+        font-weight: 400;
+        padding-left: 40px;
+        padding-right: 40px;
+      }
+      
+      /* ------------------- for headers on non-fp pages ------------------- */
+      div.jumbo-head {
+      	/*margin:10px 0 10px 0;*/
+        padding:0;
+      	}
+      
+      /* ------------------- h3, p changes for non-fp headers */
+      div.jumbo-head h1 {
+    		font-family: 'Raleway', sans-serif;
+            font-weight: 700;
+    		font-size: 32px;
+            margin-top: 15px;
+            margin-bottom: 15px;
+    		}
+
+    		
+      .jumbotron p {
+      	padding-left: 40px;
+        padding-right: 40px;
+      	}
+      
+      .jumbotron .btn {
+        font-size: 21px;
+        padding: 14px 24px;
+      }
+
+      /* ------------------- Supporting marketing content */
+    /*  .marketing {
+        margin: 60px 0;
+      }*/
+
+.marketing-top{
+    margin:20px 0;
+}
+
+.marketing-bottom{
+    margin:0px 0px 60px 0px;
+}
+
+.marketing p {
+      	/*font-family: 'Raleway', sans-serif;*/
+}
+
+.marketing h4{
+        margin-top:25px;
+}
+
+
+
+/*------------------------- Metworx page -------------- */
+
+div#metworx-tab {
+  margin-top:20px;
+}
+
+#metworx-tab th {
+  font-weight: 400;
+}
+
+#metworx-tab th h1 {
+  font-size:2em;
+  font-weight:700;
+  margin-top:10px;
+}
+
+#metworx-tab tr.metworx-tablehead1 th {
+  border-top: 2px solid #dddddd;
+  border-bottom: 0;
+  text-align:center;
+}
+
+#metworx-tab tr.metworx-tablehead2 th {
+  border-top: 0;
+  border-bottom: 0;
+  text-align:center;
+  max-width: 250px;
+}
+
+#metworx-tab tr.metworx-tablehead2 p {
+    white-space: normal;
+}
+
+#metworx-tab tr.metworx-tablehead3 th {
+  border-top: 0;
+  text-align:center;
+  padding-bottom: 20px;
+}
+
+#metworx-tab td {
+  text-align: center;
+  padding:10px;
+}
+
+#metworx-tab td.metworx-features {
+  text-align: left;
+}
+
+#metworx-tab td .glyphicon {
+  font-size:125%;
+  color: #5bc0de;
+}
+
+#metworx-tab th .glyphicon {
+  font-size:250%;
+}
+
+/*#metworx-tab th span {
+  font-size:250%;
+}*/
+
+.metworx-faq h4 {
+    margin-top: 30px;
+}
+    

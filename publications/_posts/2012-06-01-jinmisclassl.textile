@@ -1,0 +1,11 @@
+---
+layout: pubpost
+category: publications
+title: "Misclassification and discordance of measured blood pressure from patient's true blood pressure in current clinical practice: a clinical trial simulation case study"
+authors: Jin Y, Bies R, Gastonguay MR, Stockbridge N, Gobburu J, Madabushi R
+place: J Pharmacokinet Pharmacodyn
+pubdate: Jun 2012
+link: http://dx.doi.org/10.1007/s10928-012-9250-8
+areas: cardiovascular
+---
+Jin Y, Bies R, Gastonguay MR, Stockbridge N, Gobburu J, Madabushi R. Misclassification and discordance of measured blood pressure from patient's true blood pressure in current clinical practice: a clinical trial simulation case study. J Pharmacokinet Pharmacodyn. 2012 Jun;39(3):283-94.

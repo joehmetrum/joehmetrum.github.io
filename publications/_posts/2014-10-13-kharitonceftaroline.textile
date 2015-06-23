@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Population Pharmacokinetic (PPK) Modelling and Simulation to Support Pediatric Dose Selection of Ceftaroline Fosamil (CPT-F) in Children Aged 28 Days to 12 Years'
+authors:  Khariton, T Riccobene, W Knebel, T O’Neal, P Ghahramani
+place: "ACoP5"
+pubdate: October 2014
+volume: 
+number: 
+pages: 
+link: none
+areas: peds
+---
+Population Pharmacokinetic (PPK) Modelling and Simulation to Support Pediatric Dose Selection of Ceftaroline Fosamil (CPT-F) in Children Aged 28 Days to 12 Years. T Khariton, T Riccobene, W Knebel, T O’Neal, P Ghahramani, ACOP5 2014.

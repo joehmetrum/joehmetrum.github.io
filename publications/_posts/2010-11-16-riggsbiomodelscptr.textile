@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Development of Mechanistic/Multiscale/Systems Biology Models in Clinical Pharmacology and Translational Research: Do the Challenges Outweigh the Potential Benefits?'
+authors: Riggs MM
+place: "2010 AAPS Clinical Pharmacology and Translational Research (CPTR) Open Forum"
+pubdate: November 16, 2010
+volume: 
+number: 
+pages: 
+link: /assets/pubs/MultiscaleModeling_CPTR_OF_2010.pptx.pdf
+areas: methodology
+---
+Riggs MM. Development of Mechanistic/Multiscale/Systems Biology Models in Clinical Pharmacology and Translational Research: Do the Challenges Outweigh the Potential Benefits? 2010 AAPS Clinical Pharmacology and Translational Research (CPTR) Open Forum; November 16, 2010.

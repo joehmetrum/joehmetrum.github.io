@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Preliminary population pharmacokinetic modeling of PF-04360365, a humanized anti-amyloid monoclonal antibody, in patients with mild-to-moderate Alzheimer’s disease"
+authors: Nicholas T, Knebel W, Gastonguay MR, Bednar MM, Billing B, Landen JW, Kupiec JW, Corrigan B, Laurencot R, Zhao Q
+place: "ICAD 2009 Annual Meeting, Vienna, Austria"
+pubdate: July 11-16, 2009
+volume: 
+number: 
+pages: 
+link: /assets/pubs/PK_modeling_in_mild_-_mod.pdf
+areas: neurodegenerative
+---
+Nicholas T, Knebel W, Gastonguay MR, Bednar MM, Billing B, Landen JW, Kupiec JW, Corrigan B, Laurencot R, Zhao Q. Preliminary population pharmacokinetic modeling of PF-04360365, a humanized anti-amyloid monoclonal antibody, in patients with mild-to-moderate Alzheimer’s disease. ICAD 2009.

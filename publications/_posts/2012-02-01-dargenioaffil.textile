@@ -1,0 +1,11 @@
+---
+layout: pubpost
+category: publications
+title: Affiliation between the American Society of Pharmacometrics and the Journal of Pharmacokinetics and Pharmacodynamics
+authors: D'Argenio DZ, Gastonguay MR, Brundage RC, Miller R, Tannenbaum SJ, Pfister M
+place: J Pharmacokinet Pharmacodyn
+pubdate: February 2012
+link: http://dx.doi.org/10.1007/s10928-011-9237-x
+areas: other
+---
+D'Argenio DZ, Gastonguay MR, Brundage RC, Miller R, Tannenbaum SJ, Pfister M. Affiliation between the American Society of Pharmacometrics and the Journal of Pharmacokinetics and Pharmacodynamics. J Pharmacokinet Pharmacodyn. 2012 Feb;39(1):3.

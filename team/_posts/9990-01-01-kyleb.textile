@@ -1,0 +1,9 @@
+---
+layout: teampost
+title: Senior Scientist
+name: Kyle T. Baron, Ph.D.
+given: Kyle
+surname: Baron
+category: team
+---
+Kyle Baron joined MetrumRG in 2010 as a Research Scientist, working with the systems biology group to develop Bayesian hepatitis C viral dymanic models to help quantify antiviral drug effects and predict long-term viral response rates.

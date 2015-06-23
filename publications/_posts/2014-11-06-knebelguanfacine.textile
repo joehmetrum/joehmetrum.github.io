@@ -1,0 +1,16 @@
+---
+layout: pubpost
+category: publications
+title: 'Modeling and
+simulation of the exposure-response and dropout pattern of guanfacine extended-release in pediatric patients with ADHD'
+authors: Knebel W, Rogers J, Polhamus D, Ermer J, Gastonguay MR
+place: "J Pharmacokinet Pharmacodyn"
+pubdate: November 2014
+volume: 
+number: 
+pages: 
+link: http://dx.doi.org/10.1007/s10928-014-9397-6
+areas: peds
+---
+Knebel W, Rogers J, Polhamus D, Ermer J, Gastonguay MR. Modeling and simulation of the exposure-response and dropout pattern of guanfacine
+extended-release in pediatric patients with ADHD. J Pharmacokinet Pharmacodyn. 2014 Nov 6.

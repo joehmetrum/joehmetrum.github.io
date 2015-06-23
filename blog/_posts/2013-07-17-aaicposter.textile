@@ -1,0 +1,11 @@
+---
+layout: blogpost
+title: AAIC Poster
+author: Mary Delaney
+category: blog
+---
+Daniel Polhamus is representing Metrum Research Group at the Alzheimer's Association International Conference this week. If you missed our poster or handout, please download them here! 
+
+<div style="margin:0 auto; text-align:center;">
+<a  href="/ctas/aaicposter.html" class="btn btn-large btn-success">Download Metrum Research Group's Poster and Presentation</a>
+</div>

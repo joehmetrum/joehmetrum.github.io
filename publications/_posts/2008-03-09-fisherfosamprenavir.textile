@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Population Pharmacokinetic Modeling of Fosamprenavir in Pediatric HIV-Infected Patients'
+authors: Fisher J, Gastonguay MR, Knebel W, Gibiansky L, Wire MB
+place: "American Conference on PharmacometricsMarch 9-12, 2008"
+pubdate: March 9-12, 2008
+volume: 
+number: 
+pages: 
+link: /assets/pubs/acop_2008_fosamprenavir.pdf
+areas: infectious
+---
+Fisher J, Gastonguay MR, Knebel W, Gibiansky L, Wire MB. Population Pharmacokinetic Modeling of Fosamprenavir in Pediatric HIV-Infected Patients. American Conference on Pharmacometrics, 2008.

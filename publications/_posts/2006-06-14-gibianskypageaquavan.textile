@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Model-based drug development: Optimization of AQUAVAN® injection dosing for minimal-to-moderate sedation'
+authors: Gibiansky E, Gibiansky L
+place: "PAGE 2006"
+pubdate: June 2006
+volume: 
+number: 
+pages: Abstract 959
+link: /assets/pubs/page_2006_aquavan.pdf
+areas: other
+---
+Gibiansky E, Gibiansky L. Model-based drug development: Optimization of AQUAVAN® injection dosing for minimal-to-moderate sedation. PAGE 2006 (2006) Abstract 959. 

@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "An integrated natural disease progression model of nine cognitive and biomarker endpoints in patients with Alzheimer's Disease"
+authors: Angelica Quartino, Dan Polhamus, James Rogers, and Jin Jin
+place: "PAGE 2014"
+pubdate: June 2014
+volume: 
+number: Abstr 3187
+pages: 
+link: http://www.page-meeting.org/default.asp?abstract=3187
+areas: neurodegenerative
+---
+Angelica Quartino, Dan Polhamus, James Rogers, and Jin Jin. An integrated natural disease progression model of nine cognitive and biomarker endpoints in patients with Alzheimer's Disease. PAGE 2014. Abstr 3187.

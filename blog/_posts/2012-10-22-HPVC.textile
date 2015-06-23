@@ -1,0 +1,19 @@
+---
+layout: blogpost
+title: Hepatitis C Viral Dynamic Modeling and Clinical Pharmacology
+author: Kyle Baron
+category: blog
+---
+An article in the recent issue of Heptaology illustrates an insightful application of hepatitis C viral dynamic modeling and clinical pharmacology.  Guedj et al. (Hepatology 2012 55: 1030-1037) present an HCV dynamic model of viral load versus time during mericitabine therapy.   Rather than seeing the clear bi-phasic viral load profile we see with interferon and the protease inhibitors (with characteristic sharp initial drop in viral load),  the viral load decline during mericitabine therapy is more complicated: either a slower bi-phasic profile or mono-phasic profile.  The authors propose an interesting modeling solution to gain insight into mericitabine’s antiviral activity. 
+
+Mericitabine (RG7128, Roche/Gennentech) is a cytosine nucleoside analog which, when activated to its tri-phosphate form, inhibits the HCV NS5B RNA-dependent RNA polymerase.  Nucleotide analogs are well-known to require metabolic processing through a series of intracellular phosphorylation steps before they become active in tri-phosphate form.  In general, these phosphorylation steps can take some time, may be subject to a rate-limiting phosphorylation step, and may delay the time to maximal drug efficacy.  Could this account for the new and different viral load profiles?
+
+Guedj et at. propose a "varying effectiveness" (VE) viral dynamic model that is similar to a previously-published model.  In the VE model, the antiviral efficacy parameter is allowed to gradually increase from one value at the start of therapy to a terminal value some time later.  This gradual development antiviral efficacy is to mimic the gradual accumulation and activation of mericitabine tri-phosphase inside the hepatocyte.  In addition, the authors allow antiviral activity to decline after treatment is stopped, so the viral rebound at the end of therapy can be modeled. 
+
+The VE model seemed to fit the data well.  Antiviral efficacy was very low  (38% viral production block) at the start of therapy but increased over time and with dose (94-99.8% block), with a half-life of about 1.5 to 3 days.  There was also a dose-related increase in the rate of decline in antiviral activity at the end of therapy.  This VE model helped to establish and quantify the dose-dependent antiviral effectiveness of mericitabine as well as the time-course for developing antiviral drug activity.  My questions about the modeling results are related to parameter identifiability.  The viral clearance rate had to be fixed (6/hour) and it's not clear if or how this could change efficacy estimates or pharmacodynamic time-course.  Also, the estimate for the infected cell death rate (delta) seems very small (0.023/day) compared to other published estimates. Maybe it is not unreasonable given that the patients previously failed therapy.  But I wonder how reliable this parameter estimate is.
+
+These questions notwithstanding, I think the modeling results from Guedj et al. provide an interesting example of using mechanistic modeling in combination with basic pharmacology knowledge to gain quantitative insight about the antiviral activity of mericitabine.
+
+*About the Author:*
+
+_Kyle Baron joined MetrumRG in 2010 as a Research Scientist, working with the systems biology group to develop Bayesian hepatitis C viral dynamic models to help quantify antiviral drug effects and predict long-term viral response rates._

@@ -1,0 +1,19 @@
+---
+layout: blogpost
+title: Cloud Computing at ACoP
+author: Tim Bergsma
+category: blog
+---
+Already widely received in the finance community, cloud computing is gaining acceptance in the pharmaceutical industry as well.  At this year's American Conference on Pharmacometrics, Metrum Research Group staff presented a poster on the topic, and helped lead a related panel discussion.
+ 
+<div style="margin:0 auto; text-align:center;">
+<a  href="/ctas/cloudcomputing-acop-2013.html" class="btn btn-large btn-success">Download Metrum Research Group's Poster</a>
+</div>
+
+
+For pharmacometricians, perhaps the chief advantage of the cloud is the ability to match the scale of the infrastructure to the analytical problem. For instance, simultaneously running parts of a large model across multiple, on-demand virtual machines in the cloud can greatly reduce analysis time. In fact, some scientists are reporting that the increase in speed can change the way they approach a problem, as a new class of questions become a practical reality.
+
+The most frequently voiced concerns in the pharma community, with respect to cloud infrastructure, are data security and analytical reproducibility. Is my data safe "out there"? Will my model run the same if my virtual machine is re-deployed on a different "real" machine? Fair questions, both. But the outlook is optimistic. ACoP participants noted that large pharmaceutical companies already entrust large sections of confidential operations to the cloud. And overall, reproducibility benefits from the very specific software configuration recorded in a machine image, possible hardware effects not withstanding.
+
+Metrum's poster illustrates one proven configuration for doing pharmacometrics in the cloud. Mostly based on free software, it could be easy to adopt and adapt. A real plus is that mission critical aspects can be scripted: an administrative convenience that also simplifies compliance issues.
+

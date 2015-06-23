@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Applying a Multiscale Physiologic System Model to Evaluate Bone-Related Disease and Therapeutic Responses"
+authors: Riggs MM
+place: "Presented at First Indiana Clinical and Translational Sciences Institute (CTSI) Symposium on Disease and Therapeutic Response Modeling. Indiana University – Purdue University Indianapolis; Indianapolis, IN"
+pubdate: Nov 3, 2011
+volume:
+number:
+pages:
+link: /assets/pubs/Riggs_MultiscaleModeling_posted.pdf
+areas: bone
+---
+Riggs MM. Applying a Multiscale Physiologic System Model to Evaluate Bone-Related Disease and Therapeutic Responses. Presented at First Indiana Clinical and Translational Sciences Institute (CTSI) Symposium on Disease and Therapeutic Response Modeling. Indiana University – Purdue University Indianapolis; Indianapolis, IN; 03-Nov-2011

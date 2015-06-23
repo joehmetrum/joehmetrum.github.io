@@ -1,0 +1,15 @@
+---
+layout: pubpost
+category: publications
+title: "Two Guys and a Credit Card: Metrum’s Amazon Cloud Makeover - A case study in transferring a life sciences IT infrastructure fully into the cloud"
+authors: K. Davies
+place: "Bio-IT World"
+pubdate: Feb 14, 2012
+volume: 
+number: 
+pages: 
+featured: Jeffrey Hane
+link: http://www.bio-itworld.com/2012/02/14/two-guys-credit-card-metrum-amazon-cloud-makeover.html
+areas: methodology
+---
+Two Guys and a Credit Card: Metrum’s Amazon Cloud Makeover - A case study in transferring a life sciences IT infrastructure fully into the cloud. Bio-IT World (Feb 14, 2012). K. Davies

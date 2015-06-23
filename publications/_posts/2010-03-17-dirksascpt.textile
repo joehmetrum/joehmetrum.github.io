@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Comparative Performance of Bayesian Markov Chain Monte Carlo and Maximum Likelihood Population Estimation Methods when Applied to Nonlinear Pharmacokinetics of Monoclonal Antibodies'
+authors: Nathanael Dirks, Marc R. Gastonguay, William R. Gillespie, William Knebel, Matthew M. Riggs, John C. Panetta, and Bernd Meibohm
+place: "Presented at ASCPT 111th Annual Meeting"
+pubdate: March 17-20, 2010
+volume: 
+number: 
+pages: 
+link: /assets/pubs/ascpt_2010_bayesianmarkov.pdf
+areas: methodology
+---
+Nathanael Dirks, Marc R. Gastonguay, William R. Gillespie, William Knebel, Matthew M. Riggs, John C. Panetta, and Bernd Meibohm. Comparative Performance of Bayesian Markov Chain Monte Carlo and Maximum Likelihood Population Estimation Methods when Applied to Nonlinear Pharmacokinetics of Monoclonal Antibodies. Presented at ASCPT 111th Annual Meeting, March 17-20, 2010

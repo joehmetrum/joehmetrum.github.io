@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Bayesian Joint Modeling of Bone Mineral Density and Repeated Time-To-Fracture Event for Multiscale Bone Systems Model Extension"
+authors: Elodie L. Plan, Kyle T. Baron, Marc R. Gastonguay, Jonathan L. French, William R. Gillespie, and Matthew M. Riggs
+place: "PAGE 21"
+pubdate: June 2012
+volume:
+number:
+pages: Abstract 2592
+link: /assets/pubs/page-2012-bone.pdf
+areas: bone
+---
+Elodie L. Plan, Kyle T. Baron, Marc R. Gastonguay, Jonathan L. French, William R. Gillespie, and Matthew M. Riggs. Bayesian Joint Modeling of Bone Mineral Density and Repeated Time-To-Fracture Event for Multiscale Bone Systems Model Extension. PAGE 21 (2012) Abstr 2592.

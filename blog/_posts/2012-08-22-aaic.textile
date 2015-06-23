@@ -1,0 +1,20 @@
+---
+layout: blogpost
+title: Alzheimer’s Association International Conference
+author: James Rogers
+category: blog
+---
+“Prevention … we have never uttered that word at the Alzheimer’s Association International Conference, and here we actually highlighted three clinical trials in the planning for prevention of Alzheimer’s … “. This comment from Dr. Mario Carrillo gives voice to the enthusiasm and interest of the attendees at the standing-room-only Alzheimer’s Association International Conference session entitled, "Collaboration for Alzheimer's Prevention: Common Issues Across Presymptomatic Treatment Trials", in which the A4, API, and DIAN prevention trials were discussed. 
+
+<div style="margin:0 auto; text-align:center;">
+<a  href="/ctas/aaic-2012.html" class="btn btn-large btn-success">Download Metrum Research Group's Poster</a>
+</div>
+
+
+Among the many interesting and important design considerations for these trials are the choices of cognitive endpoints. As I understand it, both A4 and API will employ novel composite endpoints based on existing neuropsychological instruments in order to assess changes in cognition (it wasn’t clear to me what cognitive endpoint(s) will be used in the DIAN study, but in any event this study is powered primarily to detect changes in biomarkers). While I’m not privy to the specific deliberations in constructing these novel composite endpoints, there will presumably be some consideration of statistical / psychometric methodology known as Item Response Theory (IRT).
+
+What problem is IRT methodology solving? In the context of studying cognitive decline, IRT addresses the fact that different subscores of, say, the ADAS-cog are more or less informative at different stages of the disease, yet all are related to a single construct (“cognition”) that we understand to be in decline over the entire symptomatic spectrum of the disease. By providing insight into the relationship between disease severity and the different subscores, IRT analysis can suggest a “brew your own” composite endpoint that is tailored to the specific stage of the disease that your are studying (in theory, this could even be done adaptively on an individual-specific basis, a possibility that was acknowledged several years ago in the AD community.
+
+Where is this line of thinking going next? In addition to mixing and matching subscores from different neuropsychological assessments to combine novel cognitive endpoints, would it also make sense to include biomarker and imaging endpoints as additional “items”? How about functional endpoints? (The underlying theoretical construct would then no longer be just “cognition” but “disease severity” more generally.) Why not? The value here would go beyond simply constructing new and more sensitive endpoints: it could potentially provide a framework for translating upstream observations (say, changes in hippocampal volume) to quantitative predictions about downstream consequences (say, in activities of daily living).
+
+What do you see as the value of IRT analyses in studying AD? Let me know your thoughts. 

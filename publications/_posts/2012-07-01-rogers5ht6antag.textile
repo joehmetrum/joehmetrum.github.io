@@ -1,0 +1,13 @@
+---
+layout: pubpost
+category: publications
+title: "Model-based Analysis to Support Strategic Decision Making: A Case Study from the Development of a 5HT6 Antagonist for the Treatment of Alzheimer’s Disease"
+authors: James Rogers, Peter Lockwood, Dan Polhamus, Yves Brault, Anne Desmet, Kaori Ito, Klaus Romero, Ruolun Qiu, Bill Gillespie, Brian Corrigan, Marc Gastonguay
+place: "ICAD/AAIC"
+pubdate: July 2012
+volume:
+number:
+link: /assets/pubs/icad-sam531.pdf
+areas: neurodegenerative
+---
+James Rogers, Peter Lockwood, Dan Polhamus, Yves Brault, Anne Desmet, Kaori Ito, Klaus Romero, Ruolun Qiu, Bill Gillespie, Brian Corrigan, Marc Gastonguay. Model-based Analysis to Support Strategic Decision Making: A Case Study from the Development of a 5HT6 Antagonist for the Treatment of Alzheimer’s Disease.
