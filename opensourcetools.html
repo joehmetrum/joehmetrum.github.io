@@ -32,11 +32,25 @@ title: Open Source Tools
                     </div>
                         <hr>
                         <div class="row">
-                    <div class="col-sm-5 col-md-5 col-lg-5">
-                    <img class="img-responsive" src="/assets/img/mrgsolve.png" />
-                    </div>
-                    <div class="col-sm-7 col-md-7 col-lg-7">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ligula mi, dapibus sed fermentum at, malesuada eu risus. Quisque posuere vel lectus sed tristique. Fusce porta mollis dolor, blandit ullamcorper elit faucibus in. Quisque suscipit in neque et vehicula. Aenean sollicitudin consectetur sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+             
+                    <div class="col-sm-12 col-md-12 col-lg-12">
+                        <img class="img-responsive" src="/assets/img/mrgsolve.png" />
+                        <p>mrgsolve facilitates simulation in R from hierarchical, ordinary differential equation (ODE) based models typically employed in drug development.  The modeler creates a model specification file consisting of R and C++ code that is parsed, compiled, and dynamically loaded into the R session.  Input data are passed in and simulated data are returned as R objects, so disk access is never required during the simulation cycle after compiling.</p>
+
+                        <p>Features include:</p>
+                        <ul>
+                        <li>NMTRAN-like input data sets</li>
+                        <li>Bolus, infusion, compartment on/off and reset functionality</li>
+                        <li>Bioavailability, ALAG, SS, II, ADDL, MTIME</li>
+                        <li>Multivariate normal random effects simulated using RcppArmadillo</li>
+                        <li>Compatible with parameter estimation and design packages in R (nlme, saemix, PopED, PFIM)</li>
+                        <li>Integration with data summary (dplyr) and plotting (ggplot, lattice) packages</li>
+                        <li>Parallelization with existing R infrastructure (mclapply) or Sun Grid Engine (qapply)</li>
+                        <li>Compatible with output from many different model estimation platforms</li>
+                        <li>Easily integrated with Shiny to create model-visualization applications</li>
+                        </ul>
+
+                        <p>mrgsolve is a powerful and efficient tool for simulation from ODE-based PK/PD and systems pharmacology models. The resulting computational efficiency facilitates model exploration and application, both during model development and decision-making phases of a drug development program.  </p>
 
                         <div style="text-align: center"><a href="/ctas/mrgsolve.html" class="btn btn-large btn-success">Download mrgsolve</a></div>
                         </div>
