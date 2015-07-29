@@ -26,8 +26,8 @@ p.glyphicon-size i:before{
 }
 	
 p.iconcolor a i:before{
-	/*color:#19a219;*/
-  color: #444;
+	color:#19a219;
+  /*color: #444;*/
 }
 
 /*p.iconcolor a:hover i:before{
@@ -147,6 +147,10 @@ p.iconcolor a i:before{
 
 .navbar-custom .navbar-link:hover {
   color: #333333;
+}
+
+ul.nav li a {
+  font-size: 1.2em;
 }
 
 	
