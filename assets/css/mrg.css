@@ -26,7 +26,8 @@ p.glyphicon-size i:before{
 }
 	
 p.iconcolor a i:before{
-	color:#19a219;
+	/*color:#19a219;*/
+  color: #444;
 }
 
 /*p.iconcolor a:hover i:before{
@@ -42,7 +43,8 @@ p.iconcolor a i:before{
   font-size: 24px;
   font-weight: 200;
   line-height: 1.4;
-  color:#19a219;
+  /*color:#19a219;*/
+  color:#666;
 }
 
 /*--------------------------- Custom Navbar ----------------------- */
@@ -377,6 +379,8 @@ div.blogdate {
 .homehead h4 {
 	font-family: 'Raleway', sans-serif;
 	font-weight: normal;
+  font-size:2em;
+  color:#444;
 	}
 .btn-fp span {
 	font-family: 'Raleway', sans-serif;
@@ -449,6 +453,7 @@ h3.opensource{
         font-weight: 400;
         padding-left: 40px;
         padding-right: 40px;
+        color:#444;
       }
       
       /* ------------------- for headers on non-fp pages ------------------- */
@@ -460,11 +465,11 @@ h3.opensource{
       /* ------------------- h3, p changes for non-fp headers */
       div.jumbo-head h1 {
     		font-family: 'Raleway', sans-serif;
-            font-weight: 700;
+        font-weight: 700;
     		font-size: 32px;
-            margin-top: 15px;
-            margin-bottom: 15px;
-    		}
+        margin-top: 15px;
+        margin-bottom: 15px;
+    	}
 
     		
       .jumbotron p {
