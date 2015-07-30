@@ -4,7 +4,7 @@ category: publications
 title: ""
 authors: 
 place: ""
-pubdate: 
+pubdate: month year
 volume: 
 number: 
 pages: 
