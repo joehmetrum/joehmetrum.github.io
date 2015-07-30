@@ -47,6 +47,10 @@ p.iconcolor a i:before{
   color:#666;
 }
 
+.headerspace{
+  padding-top:15px;
+}
+
 /*--------------------------- Custom Navbar ----------------------- */
 
 /*.navbar-custom {
@@ -153,6 +157,15 @@ ul.nav li a {
   font-size: 1.2em;
 }
 
+.navstripe {
+  background-color:#f1f1f1;
+  margin-top:10px;
+}
+
+nav.navbar-custom{
+  margin-bottom:0;
+}
+
 	
 /*------------------- center top nav elements on fp ------------------- */
 /* fp top logo centering */
@@ -214,10 +227,10 @@ ul.spread-list {
 
 /* ------------------- bottom twitter, linkedin logos ------------------- */
 
-/*.social {
-	margin-left: 8px;
-	border-radius:4px;
-	}*/
+ul.social {
+	margin-top: 2px;
+	/*border-radius:4px;*/
+	}
 	
 div.footer ul.social li {
 		padding:0;
@@ -436,16 +449,25 @@ h3.opensource{
       .jumbotron {
         /*text-align: center;*/
         /*customized bg color, etc. */
-        background-color:#f3f3f3;
+        background-color:#fff;
         border-top: 1px solid #ccc;
         border-bottom: 1px solid #ccc;
         }
-        
+
+      div.jumbotron{
+        margin-bottom:0;
+      }
+      
+      .jumbotron-bot {
+        background-color:#f1f1f1;
+        padding-top:20px;
+      }
+
 			/* ------------------- padding for frontpage jumbotron */      
       .jumbo-fp {
       	text-align: center;
         padding: 40px 0 50px 0;
-        margin-top:10px;
+        /*margin-top:10px;*/
       }
       
       .jumbo-fp h1 {
