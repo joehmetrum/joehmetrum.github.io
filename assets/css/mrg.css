@@ -399,6 +399,12 @@ div.blogdate {
   font-size:2em;
   color:#444;
 	}
+
+.homehead a:hover{
+  text-decoration: none;
+}
+
+
 .btn-fp span {
 	font-family: 'Raleway', sans-serif;
 }
