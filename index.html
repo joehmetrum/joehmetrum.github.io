@@ -126,7 +126,8 @@ layout: default
           <a class="twitter-timeline" href="https://twitter.com/MetrumRG" data-widget-id="631454556526931968">Tweets by @MetrumRG</a>
           <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
       </div>
-      <div class="blogside bgc bordered container-padding col-sm-6 col-md-6">
+      <div class="col-sm-6 col-md-6">
+      <div class ="blogside bgc bordered container-padding">
       <h2>Recent News</h2>
         {% for post in site.categories.blog limit:5 %}
   
@@ -135,6 +136,7 @@ layout: default
         <!--<img src="{{ post.image }}" />-->
   
         {% endfor %}
+        </div>
       </div>
       </div>
       <!--<div class="marketing marketing-bottom row">
