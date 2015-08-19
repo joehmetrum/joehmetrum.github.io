@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Quantitative Assessment of Exposure-Response Relationships for the Efficacy and Tolerability of Varenicline for Smoking Cessation'
+authors: Ravva P, Faessel H, Gastonguay MR, Tensfeldt TG, Reeves K. 
+place: "Clin Pharmacol Ther"
+pubdate: March 2007
+volume: 81
+number: S1 
+pages: Abstract PII-73, S72
+link: /assets/pubs/clinpharmther_2007_ERrelationship_varenicline.pdf
+areas: other
+---
+Rawa P, Faessel H, Gastonguay MR, Tensfeldt TG, Reeves K. Quantitative Assessment of Exposure-Response Relationships for the Efficacy and Tolerability of Varenicline for Smoking Cessation. Clin Pharmacol Ther 2007; 81(S1), Abstract PII-73: S72.

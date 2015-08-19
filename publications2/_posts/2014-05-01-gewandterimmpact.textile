@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Research designs for proof-of-concept chronic pain clinical trials: Immpact recommendations'
+authors: J. S. Gewandter, R. H. Dworkin, D. C. Turk, M. P. McDermott, R. Baron, M. R. Gastonguay, I. Gilron, N. P. Katz, C. Mehta, S. N. Raja, S. Senn, C. Taylor, P. Cowan, P. Desjardins, R. Dimitrova, R. Dionne, J. T. Farrar, D. J. Hewitt, S. Iyengar, G. W. Jay, E. Kalso, R. D. Kerns, R. Leff, M. Leong, K. L. Petersen, B. M. Ravina, C. Rauschkolb, A. S. C. Rice, M. C. Rowbotham, C. Sampaio, S. H. Sindrup, J. W. Stauffer, I. Steigerwald, J. Stewart, J. Tobias, R.-D. Treede, M. Wallace, and R. E. White
+place: "Pain"
+pubdate: May 2014
+volume: aheadofprint
+number: 
+pages: 
+link: http://dx.doi.org/10.1016/j.pain.2014.05.025
+areas: methodology
+---
+J. S. Gewandter, R. H. Dworkin, D. C. Turk, M. P. McDermott, R. Baron, M. R. Gastonguay, I. Gilron, N. P. Katz, C. Mehta, S. N. Raja, S. Senn, C. Taylor, P. Cowan, P. Desjardins, R. Dimitrova, R. Dionne, J. T. Farrar, D. J. Hewitt, S. Iyengar, G. W. Jay, E. Kalso, R. D. Kerns, R. Leff, M. Leong, K. L. Petersen, B. M. Ravina, C. Rauschkolb, A. S. C. Rice, M. C. Rowbotham, C. Sampaio, S. H. Sindrup, J. W. Stauffer, I. Steigerwald, J. Stewart, J. Tobias, R.-D. Treede, M. Wallace, and R. E. White. Research designs for proof-of-concept chronic pain clinical trials: Immpact recommendations. Pain, May 2014.

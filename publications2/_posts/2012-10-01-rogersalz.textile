@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Combining patient-level and summary-level data for Alzheimer’s disease modeling and simulation: a beta regression meta-analysis"
+authors: Rogers JA, Polhamus D, Gillespie WR, Ito K, Romero K, Qiu R, Stephenson D, Gastonguay MR, Corrigan B
+place: "Journal of Pharmacokinetics and Pharmacodynamics"
+pubdate: October 2012
+volume: 39
+number: 5
+pages: 479-498
+link: http://link.springer.com/article/10.1007%2Fs10928-012-9263-3
+areas: neurodegenerative
+---
+Rogers JA, Polhamus D, Gillespie WR, Ito K, Romero K, Qiu R, Stephenson D, Gastonguay MR, Corrigan B. Combining patient-level and summary-level data for Alzheimer's disease modeling and simulation: a beta regression meta-analysis. J Pharmacokinet Pharmacodyn. October 2012, Volume 39, Issue 5, pp 479-498.

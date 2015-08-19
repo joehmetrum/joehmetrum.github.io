@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Clinical Dementia Rating Modeling and Simulation: Joint progression of CDR and biomarkers in the ADNI cohort'
+authors: Daniel G. Polhamus, Ph.D., James A. Rogers, Ph.D., William R. Gillespie, Ph.D., Jonathan French, Sc.D.
+place: "AAIC 2013, Boston, MA"
+pubdate: July 16, 2013
+volume: 
+number: 
+pages: 
+link: /assets/pubs/aaic_poster.pdf
+areas: neurodegenerative
+---
+Daniel G. Polhamus, Ph.D., James A. Rogers, Ph.D., William R. Gillespie, Ph.D., Jonathan French, Sc.D. Clinical Dementia Rating Modeling and Simulation: Joint progression of CDR and biomarkers in the ADNI cohort. AAIC 2013.

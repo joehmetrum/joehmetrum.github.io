@@ -1,0 +1,15 @@
+---
+layout: pubpost
+category: publications
+title: 'Modeling and simulation for medical product development and evaluation: highlights from the FDA-C-Path-ISOP 2013 workshop'
+authors: Klaus Romero, Vikram Sinha, Sandra Allerheiligen, Meindert Danhof, Jose Pinheiro, Naomi Kruhlak, Yaning Wang, Sue-Jane Wang, John-Michael Sauer, J. F. Marier, Brian Corrigan, James Rogers, H. J. Lambers Heerspink, Tawanda Gumbo, Peter Vis, Paul Watkins, Tina Morrison, William Gillespie, Mark Forrest Gordon, Diane Stephenson, Debra Hanna, Marc Pfister, Richard Lalonde, Thomas Colatsky
+place: "Journal of Pharmacokinetics and Pharmacodynamics"
+pubdate: December 2014
+volume: 41
+number: 6
+pages: 545-552
+link: https://dx.doi.org/10.1007/s10928-014-9390-0
+areas: methodology
+---
+Klaus Romero, Vikram Sinha, Sandra Allerheiligen, Meindert Danhof, Jose Pinheiro, Naomi Kruhlak, Yaning Wang, Sue-Jane Wang, John-Michael Sauer, J. F. Marier, Brian Corrigan, James Rogers, H. J. Lambers Heerspink, Tawanda Gumbo, Peter Vis, Paul Watkins, Tina Morrison, William Gillespie, Mark Forrest Gordon, Diane Stephenson, Debra Hanna, Marc Pfister, Richard Lalonde, Thomas Colatsky. Modeling and simulation for medical product development and evaluation: highlights from the FDA-C-Path-ISOP 2013 workshop. Journal of Pharmacokinetics and Pharmacodynamics
+December 2014, Volume 41, Issue 6, pp 545-552.

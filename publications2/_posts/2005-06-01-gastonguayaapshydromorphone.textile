@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Modeling and Simulation Guided Design of a Pediatric Population Pharmacokinetic Trial for Hydromorphone'
+authors: Gastonguay MR, El-Tahtawy A
+place: "The AAPS Journal"
+pubdate: June 2005
+volume: 7
+number: S2
+pages: Abstract W5318
+link: /assets/pubs/aaps_2005_pedtrialdesign.pdf
+areas: peds
+---
+Gastonguay MR, El-Tahtawy A. Modeling and Simulation Guided Design of a Pediatric Population Pharmacokinetic Trial for Hydromorphone. The AAPS Journal. Vol. 7, No. S2, Abstract W5318, 2005.

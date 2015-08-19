@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "An Evaluation of Calcilytic Effects on Parathyroid Hormone and Bone Mineral Density Response Using a Physiologically-Based, Multiscale Systems Pharmacology Model"
+authors: Kyle T. Baron, Matthew M. Riggs, Ryoko Sawamura, Takako Shimizu, Fumihiko Okada, Jin Zhou, Takahiro Shibayama, Mendel Jansen
+place: "ASBMR"
+pubdate: October 5th, 2013
+volume:
+number:
+pages:
+link: /assets/pubs/asbmroct13.pdf
+areas: bone
+---
+An Evaluation of Calcilytic Effects on Parathyroid Hormone and Bone Mineral Density Response Using a Physiologically-Based, Multiscale Systems Pharmacology Model. Kyle T. Baron, Matthew M. Riggs, Ryoko Sawamura, Takako Shimizu, Fumihiko Okada, Jin Zhou, Takahiro Shibayama, Mendel Jansen. Published at ASBMR in October, 2013. 

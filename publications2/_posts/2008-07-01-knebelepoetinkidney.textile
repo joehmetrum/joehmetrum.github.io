@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Population pharmacokinetic modeling of epoetin delta in pediatric patients with chronic kidney disease'
+authors: Knebel W, Palmen M, Dowell JA, Gastonguay M
+place: "J Clin Pharmacol"
+pubdate: July 2008
+volume: 48
+number: 7
+pages: 837-48
+link: http://www.ncbi.nlm.nih.gov/pubmed/18490498
+areas: other
+---
+Knebel W, Palmen M, Dowell JA, Gastonguay M. Population pharmacokinetic modeling of epoetin delta in pediatric patients with chronic kidney disease. J Clin Pharmacol. 2008 Jul;48(7):837-48.

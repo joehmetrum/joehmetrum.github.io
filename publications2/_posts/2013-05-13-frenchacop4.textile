@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Opportunities and Challenges of MBMA in Oncology'
+authors: Jonathan French
+place: "ACoP4"
+pubdate: May 2013
+volume: 
+number: 
+pages: 
+link: none
+areas: oncology
+---
+Jonathan French. Opportunities and Challenges of MBMA in Oncology.  ACOP4.  Ft. Lauderdale, FL.  May 13, 2013.

@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Population pharmacokinetic/pharmacodynamic model of subcutaneous adipose 11β-hydroxysteroid dehydrogenase type 1 (11β-HSD1) activity after oral administration of AMG 221, a selective 11β-HSD1 inhibitor"
+authors: Gibbs JP, Emery MG, McCaffery I, Smith B, Gibbs MA, Akrami A, Rossi J, Paweletz K, Gastonguay MR, Bautista E, Wang M, Perfetti R, Daniels O
+place: "J Clin Pharmacol"
+pubdate: June 2011
+volume: 51
+number: 6
+pages: 830-41
+link: http://dx.doi.org/10.1177/0091270010374470
+areas: cardiovascular
+---
+Gibbs JP, Emery MG, McCaffery I, Smith B, Gibbs MA, Akrami A, Rossi J, Paweletz K, Gastonguay MR, Bautista E, Wang M, Perfetti R, Daniels O. Population pharmacokinetic/pharmacodynamic model of subcutaneous adipose 11β-hydroxysteroid dehydrogenase type 1 (11β-HSD1) activity after oral administration of AMG 221, a selective 11β-HSD1 inhibitor. J Clin Pharmacol. 2011 Jun;51(6):830-41.

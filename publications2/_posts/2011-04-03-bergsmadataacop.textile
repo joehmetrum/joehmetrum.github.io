@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Strategic Data Handling for Pharmacometrics'
+authors: Bergsma T
+place: "Presented at ACOP 2011, San Diego, CA"
+pubdate: April 3-6, 2011
+volume:
+number:
+pages:
+link: /assets/pubs/acop_2011_datahandling.pdf
+areas: methodology
+---
+Bergsma T. Strategic Data Handling for Pharmacometrics. Presented at ACOP 2011, San Diego, CA.

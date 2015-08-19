@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Model-based Meta-analysis for Development of a Population-Pharmacokinetic (PPK) Model for Vitamin D'
+authors: Alanna S. Ocampo-Pelland, Marc R. Gastonguay, Joseph A. Lorenzo, and Matthew M. Riggs
+place: "ASBMR 2014 Annual Meeting"
+pubdate: September 2014
+volume: 
+number: 
+pages: 
+link: /assets/pubs/ocampoasbmr2014.pdf
+areas: bone
+---
+Alanna S. Ocampo-Pelland, Marc R. Gastonguay, Joseph A. Lorenzo, and Matthew M. Riggs. Model-based Meta-analysis for Development of a Population-Pharmacokinetic (PPK) Model for Vitamin D. ASBMR 2014 Annual Meeting.

@@ -1,0 +1,11 @@
+---
+layout: pubpost
+category: publications
+title: "Facilitating pharmacometric workflow with the metrumrg package for R"
+authors: Bergsma TT, Knebel W, Fisher J, Gillespie WR, Riggs MM, Gibiansky L, Gastonguay MR
+place: Comput Methods Programs Biomed
+pubdate: September 28, 2012
+link: http://dx.doi.org/10.1016/j.cmpb.2012.08.009
+areas: methodology
+---
+Bergsma TT, Knebel W, Fisher J, Gillespie WR, Riggs MM, Gibiansky L, Gastonguay MR. Facilitating pharmacometric workflow with the metrumrg package for R. Comput Methods Programs Biomed. 2012 Sep 28.

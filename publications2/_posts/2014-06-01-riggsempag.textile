@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Exposure-response modelling for empagliflozin, a sodium glucose cotransporter 2 (sglt2) inhibitor, in patients with type 2 diabetes'
+authors: M. M. Riggs, L. J. Seman, A. Staab, T. R. MacGregor, W. Gillespie, M. R. Gastonguay, H. J. Woerle, and S. Macha
+place: "Br J Clin Pharmacol"
+pubdate: June 2014
+volume: aheadofprint
+number: 
+pages: 
+link: http://dx.doi.org/10.1111/bcp.12453
+areas: cardiovascular
+---
+M. M. Riggs, L. J. Seman, A. Staab, T. R. MacGregor, W. Gillespie, M. R. Gastonguay, H. J. Woerle, and S. Macha. Exposure-response modelling for empagliflozin, a sodium glucose cotransporter 2 (sglt2) inhibitor, in patients with type 2 diabetes. Br J Clin Pharmacol, Jun 2014.

@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Population pharmacokinetics of intravenous ondansetron in oncology and surgical patients aged 1-48 months'
+authors: Mondick JT, Johnson BM, Haberer LJ, Sale ME, Adamson PC, Coté CJ, Croop JM, Russo MW, Barrett JS, Hoke JF
+place: "Eur J Clin Pharmacol"
+pubdate: Jan 2010
+volume: 66
+number: 1
+pages: 77-86
+link: http://www.springerlink.com/content/p611kll753750213/
+areas: oncology
+---
+Mondick JT, Johnson BM, Haberer LJ, Sale ME, Adamson PC, Coté CJ, Croop JM, Russo MW, Barrett JS, Hoke JF. Population pharmacokinetics of intravenous ondansetron in oncology and surgical patients aged 1-48 months. Eur J Clin Pharmacol. 2010 Jan;66(1):77-86.

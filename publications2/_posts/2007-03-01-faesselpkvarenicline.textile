@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Population Pharmacokinetic Analysis of Varenicline in Adult Smokers'
+authors: Faessel HM, Rawa P, Gastonguay MR, Rohrbacher KD, Tenfeldt TG
+place: "Clin Pharmacol Ther"
+pubdate: March 2007 
+volume: 81
+number: S1
+pages: Abstract PE-26, S20-21
+link: /assets/pubs/clinpharmther_2007_PopPKvarenicline.pdf
+areas: other
+---
+Faessel HM, Rawa P, Gastonguay MR, Rohrbacher KD, Tenfeldt TG. Population Pharmacokinetic Analysis of Varenicline in Adult Smokers.  Clin Pharmacol Ther 2007; 81(S1), Abstract PI-26: S20-21.

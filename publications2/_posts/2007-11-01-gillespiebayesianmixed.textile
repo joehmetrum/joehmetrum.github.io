@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Bayesian Approaches to Mixed Effects Models for Ordered Categorical Data'
+authors: W.R. Gillespie, M.R. Gastonguay, W. Knebel
+place: "AAPS Annual Meeting, San Diego"
+pubdate: November 2007
+volume: 
+number: 
+pages: 
+link: /assets/pubs/aaps_2007_BayesianModelingPoster.pdf
+areas: methodology
+---
+W.R. Gillespie, M.R. Gastonguay, W. Knebel. Bayesian Approaches to Mixed Effects Models for Ordered Categorical Data. AAPS Annual Meeting, San Diego, November 2007.

@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'A Full Model Estimation Approach for Covariate Effects: Inference Based on Clinical Importance and Estimation Precision'
+authors: Gastonguay MR
+place: "The AAPS Journal"
+pubdate: March 2004
+volume: 6
+number: S1
+pages: Abstract W4354
+link: /assets/pubs/aaps_2004_fullmodel.pdf
+areas: methodology
+---
+Gastonguay MR. A Full Model Estimation Approach for Covariate Effects: Inference Based on Clinical Importance and Estimation Precision. The AAPS Journal; 6(S1), Abstract W4354, 2004.

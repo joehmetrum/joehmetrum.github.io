@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Exposure-response modeling in oncology: technical challenges and proposed solutions'
+authors: Jonathan French
+place: "ACoP5"
+pubdate: October 2014
+volume: 
+number: 
+pages: 
+link: http://www.acop5.org/program
+areas: oncology
+---
+Jonathan French. Exposure-response modeling in oncology: technical challenges and proposed solutions. ACOP5. Las Vegas, NV.  October 13, 2014.

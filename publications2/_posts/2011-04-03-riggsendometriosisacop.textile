@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Application of a Multiscale Physiologically-Based Bone and Calcium Systems Model to Guide the Development of GnRH receptor modulators for the Management of Endometriosis'
+authors: Riggs MM, Bennetts M, Martin SW, Van Der Graaf PH
+place: "Presented at ACOP 2011, San Diego, CA"
+pubdate: April 3-6, 2011
+volume:
+number:
+pages:
+link: /assets/pubs/acop_2011_endometriosis.pdf
+areas: bone
+---
+Riggs MM, Bennetts M, Martin SW, Van Der Graaf PH. Application of a Multiscale Physiologically-Based Bone and Calcium Systems Model to Guide the Development of GnRH receptor modulators for the Management of Endometriosis. Presented at ACOP 2011, San Diego, CA.

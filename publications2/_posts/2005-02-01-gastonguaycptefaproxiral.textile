@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Population Pharmacokinetic–Pharmacodynamic Modeling of Efaproxiral in Cancer Patients Receiving Radiation Therapy'
+authors: Gastonguay MR, Venitz J, Steffen R, Hackman J
+place: "Clinical Pharmacology and Therapeutics"
+pubdate: February 2005
+volume: 77
+number: 2
+pages: P89-P89
+link: /assets/pubs/ascpt_2005_efapoxiral.pdf
+areas: oncology
+---
+Gastonguay MR, Venitz J, Steffen R, Hackman J. Population Pharmacokinetic–Pharmacodynamic Modeling of Efaproxiral in Cancer Patients Receiving Radiation Therapy. Clinical Pharmacology and Therapeutics. 77(2), P89-P89, 2005.

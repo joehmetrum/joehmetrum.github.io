@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Dexmedetomidine Pharmacology in Neonates and Infants After Open Heart Surgery'
+authors: Felice Su, Marc R. Gastonguay, Susan C. Nicolson, MaryAnn DiLiberto, Alanna Ocampo-Pelland, and Athena F. Zuppa
+place: "Anesthesia Analgesia"
+pubdate: July 2015
+volume: 
+number: 
+pages: 
+link: http://dx.doi.org/10.1213/ANE.0000000000000869
+areas: cardiovascular
+---
+F. Su, M. R. Gastonguay, S. C. Nicolson, M. DiLiberto, A. Ocampo-Pelland, and A. F. Zuppa. Dexmedetomidine pharmacology in neonates and infants after open heart surgery. Anesth Analg, Jul 2015.

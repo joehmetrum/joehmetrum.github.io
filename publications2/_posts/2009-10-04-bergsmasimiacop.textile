@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Development and Pilot Evaluation of a High-Performance Computing System for Web-Based Deployment of Pharmacometrics Applications in a Multi-User Training Environment'
+authors: Timothy Bergsma, Jeffrey Hall, Michael S. Smith, Malaz A. AbuTarif, David R. Taft, William Knebel, Joseph Hebert, James Rogers, Jeffrey T. Hane, and Marc R. Gastonguay
+place: "October 4-7, 2009"
+pubdate: 
+volume: 
+number: 
+pages: 
+link: /assets/pubs/acop2009_simi.pdf
+areas: methodology
+---
+Timothy Bergsma, Jeffrey Hall, Michael S. Smith, Malaz A. AbuTarif, David R. Taft, William Knebel, Joseph Hebert, James Rogers, Jeffrey T. Hane, and Marc R. Gastonguay. Development and Pilot Evaluation of a High-Performance Computing System for Web-Based Deployment of Pharmacometrics Applications in a Multi-User Training Environment. ACOP 2009.

@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Population pharmacokinetics of &epsilon;-aminocaproic acid in adolescents undergoing posterior spinal fusion surgery"
+authors: P. A. Stricker; M. R. Gastonguay; D. Singh; J. E. Fiadjoe; E. M. Sussman; E. Y. Pruitt; T. K. Goebel; A. F. Zuppa
+place: "British Journal of Anaesthesia"
+pubdate: January 2015
+volume: 
+number: 
+pages: 
+link: http://bja.oxfordjournals.org/content/early/2015/01/13/bja.aeu459.abstract?keytype=ref&ijkey=sWdcVEJgbJrmLiZ
+areas: peds
+---
+P. A. Stricker, M. R. Gastonguay, D. Singh, J. E. Fiadjoe, E. M. Sussman, E. Y. Pruitt, T. K. Goebel, and A. F. Zuppa. Population pharmacokinetics of &epsilon;-aminocaproic acid in adolescents undergoing posterior spinal fusion surgery. British Journal of Anaesthesia, 2015.

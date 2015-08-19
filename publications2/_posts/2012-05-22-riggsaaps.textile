@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Systematic Extension of a Physiologic Model of Bone and Calcium Homeostasis"
+authors: Riggs MM
+place: "Presented at 2012 AAPS National Biotechnology Conference, Symposium on Advancements and Applications of Multiscale Systems Pharmacology (MSP) Modeling (#144). San Diego, CA"
+pubdate: May 22, 2012
+volume:
+number:
+pages:
+link: /assets/pubs/Riggs_MultiscaleModeling_CaBoneExtensions.pdf
+areas: bone
+---
+Riggs MM. Systematic Extension of a Physiologic Model of Bone and Calcium Homeostasis. Presented at 2012 AAPS National Biotechnology Conference, Symposium on Advancements and Applications of Multiscale Systems Pharmacology (MSP) Modeling (#144). San Diego, CA; May 22, 2012.

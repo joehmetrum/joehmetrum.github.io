@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Pharmacokinetic-pharmacodynamic modeling of the effect of varenicline on nicotine craving in adult smokers'
+authors: P. Ravva, M. R. Gastonguay, H. M. Faessel, T. C. Lee, and R. Niaura
+place: "Nicotine Tob Res"
+pubdate: Aug 2014
+volume: aheadofprint
+number: 
+pages: 
+link: http://dx.doi.org/10.1093/ntr/ntu154
+areas: other
+---
+P. Ravva, M. R. Gastonguay, H. M. Faessel, T. C. Lee, and R. Niaura. Pharmacokinetic-pharmacodynamic modeling of the effect of varenicline on nicotine craving in adult smokers. Nicotine Tob Res, Aug 2014.

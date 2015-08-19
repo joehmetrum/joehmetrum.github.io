@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Evaluation of Rapid and Sustained Population Viral Response Rates Predicted Under Hepatitis C Viral Dynamic Models"
+authors: Kyle T. Baron, Patanjali Ravva, Vivek Purohit, Matthew M. Riggs, Marc R. Gastonguay
+place: "6th International Workshop on Clinical Pharmacology of Hepatitis Therapy"
+pubdate: June 2011
+volume:
+number:
+pages:
+link: /assets/pubs/12_Baron.pdf
+areas: infectious
+---
+Kyle T. Baron, Patanjali Ravva, Vivek Purohit, Matthew M. Riggs, Marc R. Gastonguay. Evaluation of Rapid and Sustained Population Viral Response Rates Predicted Under Hepatitis C Viral Dynamic Models. 6th International Workshop on Clinical Pharmacology of Hepatitis Therapy, June 2011.

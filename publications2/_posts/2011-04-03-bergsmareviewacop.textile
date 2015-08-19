@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Systematic Review of Versioned Files for Modeling and Simulation Quality Control: The “review” R Package'
+authors: Bergsma T, Fisher J, Gastonguay MR, Hane J, Knebel W, Riggs MM, Rogers JA
+place: "Presented at ACOP 2011, San Diego, CA"
+pubdate: April 3-6, 2011
+volume:
+number:
+pages:
+link: /assets/pubs/acop_2011_review.pdf
+areas: methodology
+---
+Bergsma T, Fisher J, Gastonguay MR, Hane J, Knebel W, Riggs MM, Rogers JA. Systematic Review of Versioned Files for Modeling and Simulation Quality Control: The“review” R Package. Presented at ACOP 2011, San Diego, CA.

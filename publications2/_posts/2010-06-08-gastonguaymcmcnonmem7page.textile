@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Comparison of MCMC simulation results using NONMEM 7 or WinBUGS with BUGSModelLibrary'
+authors: Gastonguay MR, Gillespie WR, Bauer RJ
+place: "Presented at PAGE 2010"
+pubdate: June 8-11, 2010
+volume: 
+number: 
+pages: 
+link: /assets/pubs/page_2010_nonmembugs.pdf
+areas: methodology
+---
+Gastonguay MR, Gillespie WR, Bauer RJ. Comparison of MCMC simulation results using NONMEM 7 or WinBUGS with BUGSModelLibrary. PAGE 2010.

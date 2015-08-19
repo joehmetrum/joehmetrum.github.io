@@ -1,0 +1,11 @@
+---
+layout: pubpost
+category: publications
+title: "Modeling and Simulation of Guanfacine Extended-Release to Support Pediatric Trial Design"
+authors: William Knebel, Jim Rogers, Dan Polhamus, Sharon Youcha, Carla White, Jim Ermer, and Marc Gastonguay
+place: American Academy of Child and Adolescent Psychiatry, 59th Annual Meeting, Poster 4.46
+pubdate: October 26, 2012
+link: https://aacap.confex.com/aacap/2012/webprogram/Session9159.html
+areas: other
+---
+William Knebel, Jim Rogers, Dan Polhamus, Sharon Youcha, Carla White, Jim Ermer, and Marc Gastonguay. Modeling and Simulation of Guanfacine Extended-Release to Support Pediatric Trial Design. American Academy of Child and Adolescent Psychiatry, 59th Annual Meeting. 2012.

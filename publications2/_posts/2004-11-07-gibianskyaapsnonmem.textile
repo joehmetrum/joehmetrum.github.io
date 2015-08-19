@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'NONMEM Non-Influential Correlated ETAs Bug and How to Fix It'
+authors: Gibiansky L
+place: "AAPS Annual Meeting: PPDM Poster-Podium Session"
+pubdate: November 2004
+volume: 
+number: 
+pages: 
+link: /assets/pubs/aaps_2004_etabug.pdf
+areas: methodology
+---
+Gibiansky L. NONMEM Non-Influential Correlated ETAs Bug and How to Fix It. AAPS Annual Meeting: PPDM Poster-Podium Session, 2004.

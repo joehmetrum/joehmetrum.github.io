@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Full Covariate Models as an Alternative to Methods Relying on Statistical Significance for Inferences about Covariate Effects: A Review of Methodology and 42 Case Studies"
+authors: Marc R. Gastonguay
+place: "Page 20. Athens, Greece"
+pubdate: June 7, 2011
+volume:
+number:
+pages: Abstr 2229
+link: /assets/pubs/GastonguayPAGE2011.pdf
+areas: methodology
+---
+Gastonguay MR. Full Covariate Models as an Alternative to Methods Relying on Statistical Significance for Inferences about Covariate Effects: A Review of Methodology and 42 Case Studies. PAGE 20 (2011) Abstr 2229.

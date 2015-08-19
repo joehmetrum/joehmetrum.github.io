@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Population pharmacokinetics of epsilon-aminocaproic acid in infants undergoing craniofacial reconstruction surgery"
+authors: Stricker PA, Zuppa AF, Fiadjoe JE, Maxwell LG, Sussman EM, Pruitt EY, Goebel TK, Gastonguay MR, Taylor JA, Bartlett SP, Schreiner MS
+place: "British Journal of Anaesthesia"
+pubdate: First published online January 25, 2013
+volume:
+number:
+pages:
+link: http://dx.doi.org/10.1093/bja/aes507
+areas: other
+---
+Stricker PA, Zuppa AF, Fiadjoe JE, Maxwell LG, Sussman EM, Pruitt EY, Goebel. TK, Gastonguay MR, Taylor JA, Bartlett SP, Schreiner MS. Population pharmacokinetics of epsilon-aminocaproic acid in infants undergoing craniofacial reconstruction surgery. British Journal of Anaesthesia. First published online January 25, 2013.

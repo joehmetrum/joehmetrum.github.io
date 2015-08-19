@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Extension of a Multiscale Model of Calcium Homeostasis and Bone Remodeling to Include the Progressive Effects of Estrogen Loss During Menopause Transition'
+authors: Riggs MM, Gillespie WR, Gastonguay MR, Peterson MC
+place: "National Institute of General Medical Sciences Quantitative Systems Pharmacology Workshop II"
+pubdate: September 9, 2010
+volume: 
+number: 
+pages: 
+link: /assets/pubs/nigms-2010-cabone.pdf
+areas: bone
+---
+Riggs MM, Gillespie WR, Gastonguay MR, Peterson MC. Extension of a Multiscale Model of Calcium Homeostasis and Bone Remodeling to Include the Progressive Effects of Estrogen Loss During Menopause Transition. Presented at National Institute of General Medical Sciences Quantitative Systems Pharmacology Workshop II. Bethesda, MD; September 9, 2010.

@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Attenuation of Vancomycin Pharmacodynamics (PD) Due to Dense Inoculum Methicillin-Resistant Staphylococcus aureus (MRSA)"
+authors: Johnston CK, Tsuji BT
+place: "Presented at the American College of Clinical Pharmacy Annual Meeting, Pittsburgh, PA"
+pubdate: October 2011
+volume: 
+number: 
+pages: 
+link: none
+areas: other
+---
+Johnston CK, Tsuji BT. Attenuation of Vancomycin Pharmacodynamics (PD) Due to Dense Inoculum Methicillin-Resistant Staphylococcus aureus (MRSA). Presented at the American College of Clinical Pharmacy Annual Meeting, Pittsburgh, PA, October 2011.

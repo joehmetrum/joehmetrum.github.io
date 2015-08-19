@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Population Dose-Response Model for ADAS-cog Scores in Patients with Alzheimers Disease by Meta-Analysis of a Mixture of Summary and Individual Data'
+authors: William R. Gillespie, James A. Rogers, Kaori Ito, Marc R. Gastonguay
+place: "ACOP 2009"
+pubdate: October 4-7, 2009
+volume: 
+number: 
+pages: 
+link: /assets/pubs/acop2009-adascog.pdf
+areas: neurodegenerative
+---
+William R. Gillespie, James A. Rogers, Kaori Ito, Marc R. Gastonguay. Population Dose-Response Model for ADAS-cog Scores in Patients with Alzheimers Disease by Meta-Analysis of a Mixture of Summary and Individual Data.

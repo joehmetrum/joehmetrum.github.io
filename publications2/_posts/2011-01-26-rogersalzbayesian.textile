@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "A Longitudinal Dose-response Model for the Progression of Alzheimers Disease, Based on a Combination of Summary-level and Patient-level Data"
+authors: Rogers JA, Ito K, Gillespie WR, Corrigan BW, Gastonguay MR
+place: "Presented at Fourth Annual Bayesian Biostatistics Conference, Houston, TX"
+pubdate: Jan 26–28, 2011
+volume:
+number:
+pages:
+link: /assets/pubs/adascog-bayesconf.pdf
+areas: neurodegenerative
+---
+Rogers JA, Ito K, Gillespie WR, Corrigan BW, Gastonguay MR. A Longitudinal Dose-response Model for the Progression of Alzheimers Disease, Based on a Combination of Summary-level and Patient-level Data. Presented at Fourth Annual Bayesian Biostatistics Conference, Houston, TX, Jan 26–28, 2011.

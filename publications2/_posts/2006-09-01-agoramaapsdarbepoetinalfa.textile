@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Development and evaluation of a population pharmacokinetic-pharmacodynamic model of darbepoetin alfa in patients with nonmyeloid malignancies undergoing multicycle chemotherapy'
+authors: Agoram B, Heatherington AC, Gastonguay MR
+place: "AAPS Journal"
+pubdate: September 2006
+volume: 8
+number: 3
+pages: 
+link: /assets/pubs/aapsjourn_2006_darbepoetin.pdf
+areas: oncology
+---
+Agoram B, Heatherington AC, Gastonguay MR. Development and evaluation of a population pharmacokinetic-pharmacodynamic model of darbepoetin alfa in patients with nonmyeloid malignancies undergoing multicycle chemotherapy. AAPS Journal. 8(3), 2006.

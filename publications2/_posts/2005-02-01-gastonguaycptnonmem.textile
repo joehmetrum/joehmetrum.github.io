@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Effect of NONMEM Minimization Status and Number of Replicates on Bootstrap Parameter Distributions for Population Pharmacokinetic Models: A Case Study. Clinical Pharmacology and Therapeutics'
+authors: Gastonguay MR and El-Tahtawy A
+place: "Clinical Pharmacology and Therapeutics"
+pubdate: February 2005
+volume: 77
+number: 2
+pages: P2-P2
+link: /assets/pubs/ascpt_2005_nonmembootstrap.pdf
+areas: methodology
+---
+Gastonguay MR and El-Tahtawy A. Effect of NONMEM Minimization Status and Number of Replicates on Bootstrap Parameter Distributions for Population Pharmacokinetic Models: A Case Study. Clinical Pharmacology and Therapeutics. 77(2), P2-P2, 2005.

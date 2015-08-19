@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Population pharmacokinetics of brodalumab in healthy adults and adults with psoriasis from single and multiple dose studies'
+authors: C. J. Endres, D. H. Salinger, K. K&ouml;ck, M. R. Gastonguay, D. A. Martin, P. Klekotka, A. Nirula, and M. A. Gibbs 
+place: "J Clin Pharmacol"
+pubdate: May 2014
+volume: aheadofprint
+number: 
+pages: 
+link: http://dx.doi.org/10.1002/jcph.334
+areas: other
+---
+C. J. Endres, D. H. Salinger, K. K&ouml;ck, M. R. Gastonguay, D. A. Martin, P. Klekotka, A. Nirula, and M. A. Gibbs. Population pharmacokinetics of brodalumab in healthy adults and adults with psoriasis from single and multiple dose studies. J Clin Pharmacol, May 2014.

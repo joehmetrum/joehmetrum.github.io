@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Acknowledging parameter uncertainty in the simulation-based design of an actinomycin-D pharmacokinetic study in pediatric patients with Wilms’ Tumor or rhabdomyosarcoma"
+authors: Mondick JT, Gibiansky L, Gastonguay MR, Veal GJ, Barrett JS
+place: "PAGE 2006"
+pubdate: June 2006
+volume: 
+number: 
+pages: Abstract 938
+link: /assets/pubs/page_2006_actinomycin.pdf
+areas: oncology
+---
+Mondick JT, Gibiansky L, Gastonguay MR, Veal GJ, Barrett JS. Acknowledging parameter uncertainty in the simulation-based design of an actinomycin-D pharmacokinetic study in pediatric patients with Wilms’ Tumor or rhabdomyosarcoma. PAGE 2006 (2006) Abstract 938. 

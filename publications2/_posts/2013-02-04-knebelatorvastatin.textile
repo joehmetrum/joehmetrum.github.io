@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Population Pharmacokinetics of Atorvastatin and Its Active Metabolites in Children and Adolescents With Heterozygous Familial Hypercholesterolemia: Selective Use of Informative Prior Distributions from Adults"
+authors: Knebel W, Gastonguay MR, Malhotra B, El-Tahtawy A, Jen F, Gandelman K
+place: "J Clin Pharmacol"
+pubdate: Feb 4, 2013
+volume:
+number:
+pages: 1-5
+link: http://www.ncbi.nlm.nih.gov/pubmed/23381936
+areas: cardiovascular
+---
+Knebel W, Gastonguay MR, Malhotra B, El-Tahtawy A, Jen F, Gandelman K. Population Pharmacokinetics of Atorvastatin and Its Active Metabolites in Children and Adolescents With Heterozygous Familial Hypercholesterolemia: Selective Use of Informative Prior Distributions from Adults. J Clin Pharmacol. Feb 4, 2013 [Epub ahead of print].

@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Population pharmacokinetic/pharmacodynamic modeling of guanfacine effects on QTc and heart rate in pediatric patients'
+authors: W. Knebel, J. Ermer, J. Purkayastha, P. Martin, and M. R. Gastonguay
+place: "The AAPS journal"
+pubdate: August 2014
+volume: aheadofprint
+number: 
+pages: 
+link: http://dx.doi.org/10.1208/s12248-014-9645-0
+areas: peds
+---
+W. Knebel, J. Ermer, J. Purkayastha, P. Martin, and M. R. Gastonguay. Population pharmacokinetic/pharmacodynamic modeling of guanfacine effects on QTc and heart rate in pediatric patients. AAPS J, Aug 2014.

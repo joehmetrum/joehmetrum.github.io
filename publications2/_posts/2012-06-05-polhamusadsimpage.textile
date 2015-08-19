@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "From Evidence Synthesis to Trial Optimization: The adsim Package for Model-based Simulation in Alzheimer’s Disease"
+authors: Dan Polhamus, Jim Rogers, Bill Gillespie, Jonathan French, and Marc Gastonguay
+place: "PAGE 21"
+pubdate: June 2012
+volume:
+number:
+pages:
+link: /assets/pubs/page_2012_polhamus.pdf
+areas: neurodegenerative
+---
+Dan Polhamus, Jim Rogers, Bill Gillespie, Jonathan French, and Marc Gastonguay. From Evidence Synthesis to Trial Optimization: The adsim Package for Model-based Simulation in Alzheimer’s Disease. PAGE 21 (2012).

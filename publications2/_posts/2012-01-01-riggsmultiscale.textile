@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Multiscale physiology-based modeling of mineral bone disorder in patients with impaired kidney function"
+authors: Riggs MM, Peterson MC, Gastonguay MR
+place: "J Clin Pharmacol"
+pubdate: Jan 2012
+volume: 52
+number: 1 Suppl
+pages: 45S-53S
+link: http://doi.org/10.1177/0091270011412967
+areas: bone
+---
+Riggs MM, Peterson MC, Gastonguay MR. Multiscale physiology-based modeling of mineral bone disorder in patients with impaired kidney function. J Clin Pharmacol. 2012 Jan;52(1 Suppl):45S-53S.

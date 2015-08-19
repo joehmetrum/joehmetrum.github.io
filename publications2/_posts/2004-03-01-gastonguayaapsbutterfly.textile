@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Estimation and Prediction of Chaotic Pharmacodynamic Systems Using Nonlinear Mixed-Effects Models: The Butterfly Effect'
+authors: Gastonguay MR and Bies R
+place: "The AAPS Journal"
+pubdate: March 2004
+volume: 6
+number: S1
+pages: Abstract W4353
+link: /assets/pubs/aaps_2004_butterflyeffect.pdf
+areas: methodology
+---
+Gastonguay MR and Bies R. Estimation and Prediction of Chaotic Pharmacodynamic Systems Using Nonlinear Mixed-Effects Models: The Butterfly Effect. The AAPS Journal; 6(S1), Abstract W4353, 2004.

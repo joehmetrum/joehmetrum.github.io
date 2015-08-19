@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Self-auditing Data Tables for R'
+authors: Timothy Bergsma, Scott Pivirotto
+place: "ACoP5"
+pubdate: October 2014
+volume: 
+number: Poster T-051
+pages: 
+link: /assets/pubs/bergsmaacop2014.pdf
+areas: methodology
+---
+Timothy Bergsma, Scott Pivirotto. Self-auditing Data Tables for R. Poster T-051. ACoP5. October 2014. 

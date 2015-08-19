@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Population Pharmacokinetic Model of Sedative Doses of GPI 15715 and Propofol Liberated from GPI 15715'
+authors: Gibiansky E, Gibiansky L, Enriquez J
+place: "Clinical Pharmacology and Therapeutics"
+pubdate: February 2005
+volume: 77
+number: 2
+pages: P48-P48
+link: /assets/pubs/ascpt_2005_ppkmodelgpi.pdf
+areas: other
+---
+Gibiansky E, Gibiansky L, Enriquez J. Population Pharmacokinetic Model of Sedative Doses of GPI 15715 and Propofol Liberated from GPI 15715. Clinical Pharmacology and Therapeutics. 77(2), P48-P48, 2005.

@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'A Physiologically-Based, Multi-Scale, Mathematical Model of Integrated Calcium Homeostasis and Bone Remodeling'
+authors: Riggs MM
+place: "Presented at ACOP 2011, San Diego, CA"
+pubdate: April 3-6, 2011
+volume:
+number:
+pages:
+link: /assets/pubs/acop_2011_MultiscaleModeling_CaBone.pdf
+areas: bone
+---
+Riggs MM. A Physiologically-Based, Multi-Scale, Mathematical Model of Integrated Calcium Homeostasis and Bone Remodeling. Presented at ACOP 2011, San Diego, CA.

@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'PKPD Modeling of VEGF, sVEGFR-2, sVEGFR-3, and sKIT as Predictors of Tumor Dynamics and Overall Survival Following Sunitinib Treatment in GIST'
+authors: E K Hansson, M A Amantea, P Westwood, P A Milligan, B E Houk, J French, M O Karlsson and L E Friberg
+place: "CPT: Pharmacomet. Syst. Pharmacol"
+pubdate: December 2013
+volume: 2
+number: 
+pages: e84
+link: https://dx.doi.org/10.1038/psp.2013.61
+areas: oncology
+---
+E K Hansson, M A Amantea, P Westwood, P A Milligan, B E Houk, J French, M O Karlsson and L E Friberg. PKPD Modeling of VEGF, sVEGFR-2, sVEGFR-3, and sKIT as Predictors of Tumor Dynamics and Overall Survival Following Sunitinib Treatment in GIST. CPT: Pharmacomet. Syst. Pharmacol. 2013 2: e84

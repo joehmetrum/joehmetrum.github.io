@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Systems Pharmacology Model Development to Provide Physiologically-Based Interpretation and Drug Development Decision Support in Osteoporosis and Other Bone-Related Diseases'
+authors: Matthew Riggs
+place: "Presented at ASCPT 2013"
+pubdate: March 7, 2013
+volume: 
+number: 
+pages: 
+link: /assets/pubs/riggs-ascpt-2013.pdf
+areas: bone
+---
+Matthew Riggs. Systems Pharmacology Model Development to Provide Physiologically-Based Interpretation and Drug Development Decision Support in Osteoporosis and Other Bone-Related Diseases. ASCPT 2013.

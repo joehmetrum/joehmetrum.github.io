@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Population pharmacokinetics of dexmedetomidine in infants after open heart surgery'
+authors: Su F, Nicolson SC, Gastonguay MR, Barrett JS, Adamson PC, Kang DS, Godinez RI, Zuppa AF
+place: "Anesth Analg"
+pubdate: May 2010
+volume: 110
+number: 5
+pages: 1383-92
+link: http://www.anesthesiaanalgesia.org/content/110/5/1383.full
+areas: cardiovascular
+---
+Su F, Nicolson SC, Gastonguay MR, Barrett JS, Adamson PC, Kang DS, Godinez RI, Zuppa AF. Population pharmacokinetics of dexmedetomidine in infants after open heart surgery. Anesth Analg. 2010 May;110(5):1383-92.

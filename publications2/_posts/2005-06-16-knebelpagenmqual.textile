@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'NMQual: A Tool to Automate Installation and Facilitate Qualification of NONMEM'
+authors: Knebel B, Bergsma T, Gibiansky L, Hane JT, Gastonguay MR
+place: "PAGE 2005"
+pubdate: June 2005
+volume: 
+number: 
+pages: 
+link: /assets/pubs/page_2005_nmqual.pdf
+areas: methodology
+---
+Knebel B, Bergsma T, Gibiansky L, Hane JT, Gastonguay MR. NMQual: A Tool to Automate Installation and Facilitate Qualification of NONMEM. PAGE Annual Meeting: Abstracts, 2005.

@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Model-based Meta-analysis Comparison of the Effects of Linagliptin and Sitagliptin on HbA1c Levels in Patients with Type 2 Diabetes Mellitus"
+authors: James Rogers, Dan Polhamus, William Gillespie, Christian Friedrich, Alexander Staab, and Silke Retlich
+place: "PAGE 21"
+pubdate: June 2012
+volume:
+number:
+pages:
+link: /assets/pubs/page_2012_rogers.pdf
+areas: cardiovascular
+---
+James Rogers, Dan Polhamus, William Gillespie, Christian Friedrich, Alexander Staab, and Silke Retlich. Model-based Meta-analysis Comparison of the Effects of Linagliptin and Sitagliptin on HbA1c Levels in Patients with Type 2 Diabetes Mellitus. PAGE 21 (2012).

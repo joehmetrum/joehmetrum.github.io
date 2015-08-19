@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'An Issue in Controlling the Type I Error Rate with Adaptive Designs Using Time-to-Event Endpoints'
+authors: James A. Rogers
+place: "Presented at 3rd Annual FDA/MTLI Medical Device and IVD Statistics Workshop"
+pubdate: April 28, 2010
+volume: 
+number: 
+pages: 
+link: /assets/pubs/jimr-mtli-2010.pdf
+areas: methodology
+---
+James A. Rogers, Ph.D. An Issue in Controlling the Type I Error Rate with Adaptive Designs Using Time-to-Event Endpoints. 3rd Annual FDA/MTLI Medical Device and IVD Statistics Workshop. 28 April 2010.

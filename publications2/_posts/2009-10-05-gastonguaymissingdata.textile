@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'The Impact of Missing Data on Model Evaluation'
+authors: Marc R. Gastonguay
+place: "ACOP 2009"
+pubdate: October 5, 2009
+volume: 
+number: 
+pages: 
+link: /assets/pubs/GastonguayACOP2009.pdf
+areas: methodology
+---
+Marc R. Gastonguay. The Impact of Missing Data on Model Evaluation. ACOP 2009.

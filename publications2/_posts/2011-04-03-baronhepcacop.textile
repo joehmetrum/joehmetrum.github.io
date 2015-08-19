@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Evaluation of Rapid and Sustained Population Viral Response Rates Predicted Under Hepatitis C Viral Dynamic Models'
+authors: Baron K, Ravva P, Purohit V, Riggs MM, Gastonguay MR
+place: "Presented at ACOP 2011, San Diego, CA"
+pubdate: April 3-6, 2011
+volume:
+number:
+pages:
+link: /assets/pubs/acop_2011_hepc.pdf
+areas: infectious
+---
+Baron K, Ravva P, Purohit V, Riggs MM, Gastonguay MR. Evaluation of Rapid and Sustained Population Viral Response Rates Predicted Under Hepatitis C Viral Dynamic Models. Presented at ACOP 2011, San Diego, CA.

@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "1212 pharmacokinetic modelling of the relationship between sustained virological response and plasma concentrations of faldaprevir or bi-207127 in hcv gt1-infected patients in sound-c2"
+authors: S. Olson, K. Baron, M. Riggs, W. O. Böcher, and F. J. Mensa
+place: "Journal of Hepatology"
+pubdate: April 2013
+volume: 58
+number: Supplement 1
+pages: S492–S493
+link: http://dx.doi.org/10.1016/S0168-8278(13)61213-1
+areas: infectious
+---
+S. Olson, K. Baron, M. Riggs, W. O. Böcher, and F. J. Mensa. 1212 pharmacokinetic modelling of the relationship between sustained virological response and plasma concentrations of faldaprevir or bi-207127 in hcv gt1-infected patients in sound-c2. Journal of Hepatology, 58:S492–S493.

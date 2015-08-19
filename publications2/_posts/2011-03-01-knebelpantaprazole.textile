@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Population pharmacokinetic modeling of pantoprazole in pediatric patients from birth to 16 years"
+authors: Knebel W, Tammara B, Udata C, Comer G, Gastonguay MR, Meng X
+place: "J Clin Pharmacol"
+pubdate: March 2011
+volume: 51
+number: 3
+pages: 333-45
+link: http://www.ncbi.nlm.nih.gov/pubmed/20484619
+areas: other
+---
+Knebel W, Tammara B, Udata C, Comer G, Gastonguay MR, Meng X. Population pharmacokinetic modeling of pantoprazole in pediatric patients from birth to 16 years. J Clin Pharmacol. 2011 Mar;51(3):333-45.

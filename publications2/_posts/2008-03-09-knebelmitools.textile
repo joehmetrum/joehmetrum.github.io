@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Facilitating the Pharmacometrics Work-Flow with the MItools R Package'
+authors: Knebel W, Bergsma T, Fisher J, Georgalis G, Gibiansky L, Gillespie WR, Riggs MM, and Gastonguay MR
+place: "American Conference on Pharmacometrics, 2008"
+pubdate: March 9-12, 2008 
+volume: 
+number: 
+pages: 
+link: /assets/pubs/acop_2008_mitools.pdf
+areas: methodology
+---
+Knebel W, Bergsma T, Fisher J, Georgalis G, Gibiansky L, Gillespie WR, Riggs MM, and Gastonguay MR. Facilitating the Pharmacometrics Work-Flow with the MItools R Package. American Conference on Pharmacometrics, 2008.

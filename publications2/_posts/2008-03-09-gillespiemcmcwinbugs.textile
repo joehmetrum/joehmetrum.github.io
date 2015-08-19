@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'Open Source Software Tools for Parallel Computation of Multiple MCMC Chains with WinBUGS'
+authors: Gillespie WR, Gastonguay MR, Knebel W, Georgalis G
+place: "American Conference on Pharmacometrics"
+pubdate: March 9-12, 2008
+volume: 
+number: 
+pages: 
+link: /assets/pubs/acop_2008_winbugs.pdf
+areas: methodology
+---
+Gillespie WR, Gastonguay MR, Knebel W, Georgalis G. Open Source Software Tools for Parallel Computation of Multiple MCMC Chains with WinBUGS. American Conference on Pharmacometrics, 2008.

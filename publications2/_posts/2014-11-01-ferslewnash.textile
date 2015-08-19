@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Altered Fasting and Postprandial Serum Bile acids in Patients with Non-Alcoholic Steatohepatitis (NASH)"
+authors: Ferslew BC, Johnston CK, Tsakalozou EF, Su MI, Xie GU, Jia WE, Brouwer KLR and Barritt AS
+place: "Presented at the  American Association For The Study Of Liver Diseases Annual Meeting, Boston, MA"
+pubdate: November 2014
+volume: 
+number: 
+pages: 
+link: none
+areas: other
+---
+Ferslew BC, Johnston CK, Tsakalozou EF, Su MI, Xie GU, Jia WE, Brouwer KLR and Barritt AS. Altered Fasting and Postprandial Serum Bile acids in Patients with Non-Alcoholic Steatohepatitis (NASH). Presented at the  American Association For The Study Of Liver Diseases Annual Meeting, Boston, MA,  November 2014.

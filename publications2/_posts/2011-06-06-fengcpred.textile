@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: "Performance of Cpred/Cobs concentration ratios as a metric reflecting adherence to antidepressant drug therapy."
+authors: Feng Y, Gastonguay MR, Pollock BG, Frank E, Kepple GH, Bies RR
+place: "Neuropsychiatr Dis Treat"
+pubdate: March 17, 2011
+volume: 7
+number:
+pages: 117-125
+link: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3083985/
+areas: methodology
+---
+Feng Y, Gastonguay MR, Pollock BG, Frank E, Kepple GH, Bies RR. Performance of Cpred/Cobs concentration ratios as a metric reflecting adherence to antidepressant drug therapy. Neuropsychiatr Dis Treat. 2011;7:117-25.

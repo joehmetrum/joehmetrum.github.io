@@ -1,0 +1,14 @@
+---
+layout: pubpost
+category: publications
+title: 'KPD Modeling of Predictors for Adverse Effects and Overall Survival in Sunitinib-Treated Patients With GIST'
+authors: E K Hansson, G Ma, M A Amantea, J French, P A Milligan, L E Friberg and M O Karlsson
+place: "CPT: Pharmacomet. Syst. Pharmacol"
+pubdate: December 2013
+volume: 2
+number: 
+pages: e85
+link: https://dx.doi.org/10.1038/psp.2013.62
+areas: oncology
+---
+E K Hansson, G Ma, M A Amantea, J French, P A Milligan, L E Friberg and M O Karlsson. PKPD Modeling of Predictors for Adverse Effects and Overall Survival in Sunitinib-Treated Patients With GIST. CPT: Pharmacomet. Syst. Pharmacol. 2013 2, e85.
